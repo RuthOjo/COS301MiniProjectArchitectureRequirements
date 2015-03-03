@@ -14,3 +14,5 @@ The software architecture requirements include the access and integration requir
 4. Architecture constraints
   * 12042804 Ruth Ojo
   * 12002862 Lindelo Mapumulo
+5. Unassigned 
+  * 12063178 Axel Ind
