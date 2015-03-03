@@ -9,10 +9,8 @@ The software architecture requirements include the access and integration requir
   * 13019602 Thinus Naude
   * 11247143 Kabelo Kgwete 
 3. Integration requirements
-  * 12042804 Ruth Ojo
-  * 12002862 Lindelo Mapumulo
-4. Architecture constraints
   * 11241617 Sylvester Mpangane
   * 12310043 Maphuti Setati
-5. Unassigned 
-  *  12063178 Axel Ind __ WHO IS HE __
+4. Architecture constraints
+  * 12042804 Ruth Ojo
+  * 12002862 Lindelo Mapumulo
