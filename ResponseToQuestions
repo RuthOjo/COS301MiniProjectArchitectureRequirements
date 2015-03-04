@@ -1,0 +1,47 @@
+On 2015-03-04 01:44 PM, Thinus Naude wrote:
+Good day Mrs Pieterse
+
+My group and I just have a few BuzzSpace Architecture related questions. It would be great if you could help us in this regard.
+
+ The questions:
+ 1. How many concurrent users should the system cater for ?  
+Millions - Ideally Buzz should be developed to be usable in MOOCs
+…
+
+ 2. Regarding how the website will be hosted
+ 2.1 Can we assume the service will be hosted on the same server(s) as the Cs website. 
+No 
+…
+ 2.2 Is there/does there need to be load balancing
+Yes
+…
+
+ 2.3 Is there/does there need to be caching of the pages
+Yes
+ 2.4 What operating system will BuzzSpace be run on 
+You should suggest an appropriate OS that is most suitable for this application - motivate your selection based on facts and not on sentiment.
+…
+
+ 2.5 What version of Java / Java EE is installed / can we choose a version.
+You suggest the most appropriate technology - motivate your selection based on facts and not on sentiment.
+…
+ 1.6 What database technology is currently installed / can we choose a technology 
+You suggest the most appropriate technology - motivate your selection based on facts and not on sentiment.
+…
+3. Should the system have redundant servers (at a different location) for/if/when the University's servers go down. 
+Yes - configurable.
+…
+
+4. If the database were to go down , should the system automatically switch to a backup or redundant database connection? And how often would you like these backups to occur ? 
+You have to say what you think and motivate why you think so - ideally the final users should be able to configure their preferences in this regard
+…
+
+5. Does the system need to be https enabled 
+You have to say what you think and motivate why you think so - ideally the final users should be able to configure their preferences in this regard
+…
+6. Because this is The University of Pretoria does the design of BuzzSpace need to have multi-language support (e.g Afrikaans/English/Other) or can we assume only a English design/front end
+Most development tools  allow for the development of interfaces with multi-language support. It will be a real pity if we hardcode Buzz to be only English.  
+…
+7. Regarding future use/maintainability of the system, will there need to be a manual of some kind or coding standards utilized during the coding process.
+Stupid question - sit.--- COS301 is about teaching you the importance of these things so it goes without saying -- it is assumed.
+…
