@@ -1,9 +1,26 @@
-\documentclass[a4paper,12pt]{article}
+\documentclass[a4paper,12pt,titlepage]{article}
 \usepackage{graphicx}
 \usepackage[hidelinks]{hyperref}
 \usepackage{listings}
-\setcounter{tocdepth}{1}
+%\setcounter{tocdepth}{1}
 \usepackage{float}
+
+
+
+
+\DeclareGraphicsExtensions{.png}
+%\graphicspath{ {./images/} }
+
+
+\newcommand{\subtitle}[1]{%
+  \posttitle{%
+    \par\end{center}
+    \begin{center}\large#1\end{center}
+    \vskip0.5em}%
+} 
+
+
+
 \begin{document}
 \begin{center}
 
@@ -69,9 +86,11 @@ This document contains specifications of the software architecture
 %-----------------SYLVESTER AND MAPHUTI-----------------
 \subsection{Integration channels}
 
+\pagebreak
 %-----------------SYLVESTER AND MAPHUTI-----------------
 \section{Architectural responsibilities}
 
+\pagebreak
 %-----------------THIUNS AND KABELO-----------------
 \section{Quality requirements}
 %-----------------THIUNS -----------------
@@ -85,7 +104,7 @@ This document contains specifications of the software architecture
 	\item The Scalability discussed here can be seen as an illustration in Figure ~\ref{fig:scalability}.
 	\begin{figure}[H]
 		\centering
-		\fbox{\includegraphics[width=1.0\textwidth]{Scalability.png}}
+		\fbox{\includegraphics[width=1.0\textwidth]{Scalability}}
 		\caption{How the system architecture can be set-up to allow many concurrent connections.}
 		\label{fig:scalability}
 	\end{figure}
@@ -157,6 +176,9 @@ This document contains specifications of the software architecture
 %-----------------KABELO-----------------
 \subsection{Integrability}
 
+
+\pagebreak
 %-----------------RUTH AND LINDELO-----------------
 \section{Architecture constraints}
+\input{Architectural_Constraints_1}
 \end{document}
