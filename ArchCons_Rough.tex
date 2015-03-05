@@ -2,14 +2,14 @@
 \usepackage[textwidth = 155mm]{geometry}
 \begin{document}
 \section{Architecture constraints}
-\subsection{Technical Constraints} \newline \newline
-\textbf{Description}
-Technical constraints relate to the technology used to implement Buzz. Although the limiting technology can be circumvented, the limitations imposed by the technology cannot be avoided when used. \newline
+\subsection{Technical Constraints}
+\textbf{Description:}
+Technical constraints relate to the technology used to implement Buzz. Although the limiting technology can be circumvented, the limitations imposed by the technology cannot be avoided when used. \\ \\ \par
 \underline{Neo4j}, the database of choice, is schema-less, which means a schema change will not affect how the data is stored. It also caters for unstructured data; a traditional relational database will be too limiting with this regard since it only stores structured data and has a set schema. Relations and entities are better defined with Neo4j, the type of relationship is defined explicitly. The number of users on Buzz will not affect the system since Neo4j will not “break down” under high usage. \par
 \underline{Java EE} uses the Model-View-Controller pattern, which is wise for team development. It is also open source, which means the client does not have to worry about paying for a license to use the software. Java EE makes use of containers, these simplify development because they separate the business’  logic from lifecycle and resource management. Java EE provides a platform for developing and deploying web services on the Java platform; this is good since Buzz is a web services. \par
 \underline{HTML} is a common markup language, which means anyone familiar with it will be able to modify or develop the Buzz user interface. HTML also makes use of JavaScript, which could be used to validate user input on the client side before it is sent to the server. This is good when there are concurrent threads being created in  a Buzz space. CSS3 in conjunction with HTML will also make the user interface more aesthetically appealing to the Buzz user.\par 
 \underline{Operating systems} will not affect Buzz because it is a web services. If a user has IE, Google Chrome, Safari or Firefox, they will be able to use Buzz. However, other browsers might not be supported. 
 \subsection{Business Constraints}
-\textbf{Description}
+\textbf{Description:}
 Business constraints are imposed by the the client.
 \end{document}
