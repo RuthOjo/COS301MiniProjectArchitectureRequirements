@@ -1,0 +1,24 @@
+1. Do not follow the template in the document softwareArchitectureDesign_doc.pdf at all (It is for the honors students). 
+Follow the the points of number 4 in the requirementsAndTechnologyNeutralApplicationDesign.pdf. 
+
+2.Yes, we are meant to have diagrams. eg. Component Diagram (Will ask about more)
+
+3. READ the Master Functional Requirements and understand them.
+
+4. Group Work is NB. It is not advised to delegate certain parts to different people. Everyone should contribute to different sections. If someone is struggling with their section they should tell the group. Delegation means Dependency. Rather sit as a team and discuss each section and let everyone explain what they understand about a certain section.
+
+5.READ the Patterns pdf and Chapter 6.
+
+6. In your work, say why you choose a specific technology, constraint, pattern, requirement etc eg. JavaEE and your choice has to fulfill a functional requirement.
+
+6.1 Doing section 3, you have to pick at most 3 core requirements that you think the system needs the most,  any functional system cannot have all the quality requirements. Also specify which would be nice to have. And elaborate on your core qualities. Quality Requirements must match Functional Requirements.
+Suggested top 3 requirements by Stacey (1. Scalability, 2. Auditability, 3. Usability(Most important))
+Eg. Scalability: The system must be able to be used by 2000 people.
+Eg. Auditability : The posts will be looked over a lot so it has to be auditable, eg. Plaigarism
+Eg. Usability: It must be usable,as a lot of students will be using it.
+
+7. Access Channel Requirements
+- Eg. SOAP, RESTful, HTTP, COBALT. Which platform will work and which wont & why. Think about the design
+
+8. Architecture Constraints
+- Put whichever constraint makes sense to you. It can be environmental constraint, time constraint, number of students constraint. not only technology constraints.
