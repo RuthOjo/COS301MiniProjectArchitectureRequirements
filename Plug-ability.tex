@@ -1,0 +1,11 @@
+\vspace{0.5 cm}
+The system as a whole should be designed and developed in such a way that it is modular allowing for additional modules to be added or even removed.\\\\
+The reason why this is an important quality requirement is because the system should allow the addition of new plug-ins(modules) or the removal of old modules that are no longer required or obsolete. This allows for a more adaptable system as it can be adjusted to a specific users needs. By ensuring plug-ability the system will also be much easier to test. Diagnostics of potential flaws and module clashes can now be eliminated as the system can be tested as individual modules and even as a whole allowing for multiple module configurations. \\\\
+Mechanisms:
+	\begin{enumerate}
+		\item \begin{enumerate}
+			\item There are multiple strategies that can ensure plug-ability one such strategy as mentioned above is to subdivide the system into separate interconnect-able modules or plug-ins. \\
+			\item Another strategy is to split the system into many services that communicate with one another to perform the required functional requirements.\\
+		\end{enumerate}
+		\item The best Architectural pattern to realize this requirement would be the micro-kernel, this is because this pattern allows for a plug-and-play infrastructure meaning that modules can easily be added or removed or even rolled back to previous versions without affecting other services on the system. This is done by using the Internal servers of the micro-kernel. 
+	\end{enumerate}

@@ -8,15 +8,15 @@
 \contentsline {subsubsection}{\numberline {2.2.4}Integrability}{4}{subsubsection.2.2.4}
 \contentsline {subsection}{\numberline {2.3}Important quality requirements}{6}{subsection.2.3}
 \contentsline {subsubsection}{\numberline {2.3.1}Performance}{6}{subsubsection.2.3.1}
-\contentsline {subsubsection}{\numberline {2.3.2}Plug-ability(Maintainability)}{6}{subsubsection.2.3.2}
-\contentsline {subsubsection}{\numberline {2.3.3}Monitor-ability}{6}{subsubsection.2.3.3}
-\contentsline {subsection}{\numberline {2.4}Nice to have quality requirements}{7}{subsection.2.4}
-\contentsline {subsubsection}{\numberline {2.4.1}Reliability and Availability}{7}{subsubsection.2.4.1}
-\contentsline {subsubsection}{\numberline {2.4.2}Testability}{7}{subsubsection.2.4.2}
-\contentsline {subsection}{\numberline {2.5}Integration and access channel requirements}{8}{subsection.2.5}
-\contentsline {subsection}{\numberline {2.6}Architectural constraints}{9}{subsection.2.6}
-\contentsline {section}{\numberline {3}Architectural patterns or styles}{10}{section.3}
-\contentsline {section}{\numberline {4}Architectural tactics or strategies}{11}{section.4}
-\contentsline {section}{\numberline {5}Use of reference architectures and frameworks}{12}{section.5}
-\contentsline {section}{\numberline {6}Access and integration channels}{13}{section.6}
-\contentsline {section}{\numberline {7}Technologies}{14}{section.7}
+\contentsline {subsubsection}{\numberline {2.3.2}Plug-ability(Maintainability)}{7}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Monitor-ability}{8}{subsubsection.2.3.3}
+\contentsline {subsection}{\numberline {2.4}Nice to have quality requirements}{9}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Reliability and Availability}{9}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}Testability}{9}{subsubsection.2.4.2}
+\contentsline {subsection}{\numberline {2.5}Integration and access channel requirements}{10}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Architectural constraints}{11}{subsection.2.6}
+\contentsline {section}{\numberline {3}Architectural patterns or styles}{12}{section.3}
+\contentsline {section}{\numberline {4}Architectural tactics or strategies}{13}{section.4}
+\contentsline {section}{\numberline {5}Use of reference architectures and frameworks}{14}{section.5}
+\contentsline {section}{\numberline {6}Access and integration channels}{15}{section.6}
+\contentsline {section}{\numberline {7}Technologies}{16}{section.7}
