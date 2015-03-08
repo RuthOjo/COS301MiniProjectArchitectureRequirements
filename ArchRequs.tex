@@ -23,7 +23,7 @@
 %-----------------BASIC INTRODUCTION-----------------
 \newpage
 \section{Introduction}
-\setlength{\voffset}{-3cm}
+
 This document was compiled by our group during our meetings and was produced as a whole by the team.\\\\
 
 This document contains specifications of the software architecture 
@@ -41,7 +41,6 @@ This document contains specifications of the software architecture
 
 %-----------------PARTS TO EDIT-----------------
 \newpage
-\setlength{\voffset}{-3cm}
 
 \section{Architecture requirements}
 \subsection{Architectural scope}
@@ -75,32 +74,11 @@ This document contains specifications of the software architecture
 	\end{enumerate}
 \newpage
 \subsection{Important quality requirements}
+
 \subsubsection{Performance}%Thinus
-	\subsubsection*{Description}
-	Performance is an indication of the responsiveness of a system to execute some action(s) within a specific time interval. This time interval is usually measured in terms of latency or throughput. 
-	\begin{quote}
-		\textbf{Latency:} the time it takes the system to respond to any event(s).
-	\end{quote} 
-	\begin{quote}
-		\textbf{Throughput:} the number of events executed within a given amount of time by the system.
-	\end{quote} 
-	A system with high performance maximizes throughput and minimizes latency.
-	\subsubsection*{Justification}
-	We chose performance as an Important quality requirement because the over or under performance of a system will influence other quality attributes of the system. If the system has increased latency and decreased throughput, due to the systems inability to handle increased load (scalability), the performance, responsiveness and usability of the system will suffer. 
-	\subsubsection*{Strategy}
-	\begin{itemize}
-		\item The system needs to be hardware and software fault tolerant (to a certain degree). The system needs to continue working/running as intended but possibly at a reduced level, rather than breaking/stopping completely.
-		\item The system needs to be responsive. The time it takes for a request to be sent back to a user should be minimized. 
-		\item The UI presented to the user needs to be clean, dynamic and use minimal resources. An example would be to use minified JavaScript files and compressed images.
-		\item The performance of the system needs to be optimal, memory or processor intensive tasks should run/execute when there are the least number of active users in order to minimize the impact these tasks will have on performance.
-		\item The system needs to have a coping mechanism when there is a sudden change of environment. (E.g. can handle 100 connections suddenly there is 10000 connections). Performance will suffer if this is not taken into consideration.
-		\item The system should deliver intermediate results or updates to the user when executing a request. For instance, a web page that submits a form via AJAX can have a status/busy indicator to let the user know his/her request is being processed.
-		\item When there is increased database server processing 
-		\item In order to keep latency low and throughput high the system needs to cache objects/frequently requested database results This will ensure that frequent objects and queries aren't repeated or fetched over and over again wasting system resources and increasing database server processing.
-		\item An important aspect of performance is to ensure the scalability of the system is optimal. Because an increase in performance directly affects the systems scalability, and in turn the lack of scalability also affects performance.
-	\end{itemize}
+	\input{Performance}
 	\newpage
-\subsubsection{Plug-ability(Maintainability)}%Roger
+\subsubsection{Plug-ability (Maintainability)}%Roger
 	\input{./plug-ability.tex}
 	\newpage
 \subsubsection{Monitor-ability}%Maria
