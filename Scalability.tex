@@ -1,0 +1,22 @@
+\subsubsection*{Description}
+	Scalability is an essential aspect of a system and is the ability of a system to be easily enlarged in order to accommodate a growing amount of work.
+	\subsubsection*{Justification}
+	 As the Buzz System should allow for more than a million concurrent users, the system must be able to handle that.
+	\subsubsection*{Mechanism}
+		\begin{enumerate}
+			\item Strategy:\\\\
+			Scalability can be achieved by:
+			\begin{itemize}
+			\item Clustering: using more resources by running many instances of the application over a cluster of servers or instances.
+			\item Load Balancing: Spread the systems load across time or across resources through scheduling or queueing. In the case that the limit for a server has been reached, a new instance will have to be created in order to handle the number of increasing requests. On the other hand, if the usage of a server is way below the capacity, the number of instances will have to be reduced.\\\\
+			In terms of databases:
+			\item Caching: to ensure no duplication or repeated retrieval of frequent objects or queries; a separate module can facilitate caching; thus system resources will not be used up unnecessarily.
+			 \end{itemize}
+			\item Architectural Pattern(s):
+			\begin{itemize}
+			\item Blackboard Architectural Pattern
+				\begin{itemize}
+					\item Makes used of a spaced-based architecture, making it easy to add a new knowledge source or update an existing knowledge source.
+				 \end{itemize}
+			 \end{itemize}
+		\end{enumerate}
