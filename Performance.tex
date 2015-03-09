@@ -1,0 +1,30 @@
+\subsubsection*{Description}
+		Performance is an indication of the responsiveness of a system to execute some action(s) within a specific time interval. This time interval is usually measured in terms of latency or throughput.
+		\begin{quote}
+			\textbf{Latency:} the time it takes the system to respond to any event(s).
+		\end{quote} 
+		\begin{quote}
+			\textbf{Throughput:} the number of events executed within a given amount of time by the system.
+		\end{quote} 
+		A system with high performance maximizes throughput and minimizes latency. This is ideally what we want for the BuzzSystem
+	\subsubsection*{Justification}
+	 	We chose performance as an important quality requirement because the over/under performance of a system will influence other quality attributes of the system. If the system has increased latency and decreased throughput( for example due to the systems inability to handle increased load, or subpar scalability) the performance, responsiveness and usability of the system will suffer. Because the Buzz System will be used by users we want them to use a system the performs optimally and responds to their event(s) with minimal latency. 
+	\subsubsection*{Mechanism}
+		\begin{enumerate}
+			\item Strategy:
+			The system needs to be responsive. The time it takes for a request to be sent back to a user should be minimized.
+			\begin{itemize}
+				\item The system needs to be hardware and software fault tolerant (to a certain degree). The system needs to continue working/running as intended but possibly at a reduced level, rather than breaking/stopping completely. A system that is off-line has 0 throughput. 
+				\item The UI presented to the user needs to be clean, dynamic and use minimal resources. For example using minified JavaScript files and compressed images. In order to reduce latency.
+				\item The performance of the system needs to be optimal, memory or processor intensive tasks should run/execute when there are the least number of active users in order to minimize the impact these tasks will have on performance. For example run batch plagiarism and netetiquette checks at 2AM in the morning.
+				\item The system needs to have a coping mechanism when there is a sudden change in its environment. For example if the system can currently handle 100 connections and suddenly there is 10000 connections. the system needs to know how to cope. Performance will suffer if this is not taken into consideration. See Scalability for possible solution.
+				\item The system should deliver intermediate results or updates to the user when executing a request. For example, a web page that submits a form via AJAX can have a status/busy indicator to let the user know his/her request is being processed.
+				\item When there is increased database server processing the system needs to keep latency low and throughput high. The system can achieve this by storing frequently requested database results or objects in a cache. This will ensure that frequent objects and queries aren't repeated or fetched over and over, wasting system resources and increasing database server processing.
+				\item An important aspect of performance is to ensure the scalability of the system is optimal. Because an increase in performance directly affects the systems scalability, and in turn the lack of scalability also affects performance.
+			 \end{itemize}
+			\item Architectural Pattern(s):
+			\begin{itemize}
+			\item Many/all of the patterns discussed in this document could assist in performance.
+			\item Architectural Patterns that allow for scaling of resources are preferred. 
+			\end{itemize}
+		\end{enumerate}

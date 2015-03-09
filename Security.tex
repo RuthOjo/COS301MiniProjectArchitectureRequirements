@@ -1,0 +1,40 @@
+\subsubsection*{Description}
+	Security includes the securing of confidential data stored from unauthorized access and modification. For BuzzSpace, this means:
+	\begin{itemize}
+		\item Ensuring only genuine users may have access to the system’s data. 
+		\item Different levels of access should be provided to users.
+		\item Securing vulnerabilities that may exist in the application.
+	\end{itemize}	
+	\subsubsection*{Justification}
+	 Security is a crucial aspect of the system. Poor security design and implementation can compromise the data stored by the system and hackers with malicious intentions can succeed to gain access to sensitive information. Using a combination of security strategies and patterns, we can prevent unauthorized users from accessing sensitive information or cause damage to the system.
+	\subsubsection*{Mechanism}
+		\begin{enumerate}
+			\item Strategy:\\\\
+			Security can be achieved by using:
+			\begin{itemize}
+			\item Authentication: This is the process that ensures and confirms a user’s identity.
+			\item Encryption: This process converts sensitive data into another form, which cannot be easily understood by unauthorized users. Data will be converted to readable format for authorized users.
+			\item Input Validation: The process of validating all the input to an application before using it. This will prevent malicious attacks such as SQL injections.
+			\item Auditing and Logging: This includes the recording of the implementation level events and domain-level events that occur when the system is being used. This data will help identify what went wrong if the system experiences malicious attacks.\\\\
+			
+			 \end{itemize}
+			\item Architectural Pattern(s):
+			\begin{itemize}
+			\item Authentication Enforcer pattern
+				\begin{itemize}
+					\item This pattern can be used to manage and delegate authentication processes.
+				 \end{itemize}
+			\item Secure Base Action pattern
+				\begin{itemize}
+					\item Shows centralizing handling of security tasks such as input validation in a base action class.
+				 \end{itemize}
+			\item Secure Logger pattern
+				\begin{itemize}
+					\item This pattern can be used to log sensitive data and ensuring tamper-proof storage.
+				 \end{itemize}
+			\item Secure Session Manager
+				\begin{itemize}
+					\item This pattern can be used to show securely centralizing session information handling.
+				 \end{itemize}
+			 \end{itemize}
+		\end{enumerate}

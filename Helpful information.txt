@@ -11,7 +11,10 @@ Follow the the points of number 4 in the requirementsAndTechnologyNeutralApplica
 
 6. In your work, say why you choose a specific technology, constraint, pattern, requirement etc eg. JavaEE and your choice has to fulfill a functional requirement.
 
-6.1 Doing section 3, you have to pick at most 3 core requirements that you think the system needs the most,  any functional system cannot have all the quality requirements. Also specify which would be nice to have. And elaborate on your core qualities. Quality Requirements must match Functional Requirements.
+6.1 Doing section 3, you have to pick at most 3 core requirements that you think the system needs the most,  
+any functional system cannot have all the quality requirements. Also specify which would be nice to have. 
+And elaborate on your core qualities. Quality Requirements must match Functional Requirements.
+
 Suggested top 3 requirements by Stacey (1. Scalability, 2. Auditability, 3. Usability(Most important))
 Eg. Scalability: The system must be able to be used by 2000 people.
 Eg. Auditability : The posts will be looked over a lot so it has to be auditable, eg. Plaigarism

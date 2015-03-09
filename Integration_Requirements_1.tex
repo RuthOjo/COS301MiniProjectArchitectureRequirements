@@ -1,12 +1,13 @@
-\subsection{Integration Channels}
+\subsubsection*{Channels}
 \begin{itemize}
 \item The Buzz system will access the CS MySQL database to retrieve information of a particular module/course.
 \item The Buzz system will access the CS LDAP server to gain access to and retrieve details of students,  lectures and also a module's enrollment  list.
 \end{itemize}
 
-\subsection{Protocols}
-The system will main use the HTTPS and LDAP protocols.
+\subsubsection*{Protocols}
+The Buzz system will mainly use the HTTPS, LDAP and SMTP protocols.
 \begin{itemize}
-\item The HTTPS protocol will be use for security.
-\item The LDAP is for integration with the CS LDAP server.  
+\item HTTPS: This protocol will be use for security, to ensure that a secure connection is maintained and users information is safe. 
+\item LDAP: The protocol that will be used for the integration of the system with the CS LDAP server.
+\item SMTP: Notifications for plagiarism or posts not conforming to the netiquette rules will use this protocol for the Buzz email system to enable the communication between the administrator (lecture) and students.  
 \end{itemize}
