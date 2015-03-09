@@ -3,20 +3,20 @@
 \contentsline {subsection}{\numberline {2.1}Architectural scope}{3}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Critical quality requirements}{4}{subsection.2.2}
 \contentsline {subsubsection}{\numberline {2.2.1}Scalability}{4}{subsubsection.2.2.1}
-\contentsline {subsubsection}{\numberline {2.2.2}Security}{4}{subsubsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.3}Usability}{4}{subsubsection.2.2.3}
-\contentsline {subsubsection}{\numberline {2.2.4}Integrability}{4}{subsubsection.2.2.4}
-\contentsline {subsection}{\numberline {2.3}Important quality requirements}{6}{subsection.2.3}
-\contentsline {subsubsection}{\numberline {2.3.1}Performance}{6}{subsubsection.2.3.1}
-\contentsline {subsubsection}{\numberline {2.3.2}Plug-ability(Maintainability)}{8}{subsubsection.2.3.2}
-\contentsline {subsubsection}{\numberline {2.3.3}Monitor-ability}{9}{subsubsection.2.3.3}
-\contentsline {subsection}{\numberline {2.4}Nice to have quality requirements}{10}{subsection.2.4}
-\contentsline {subsubsection}{\numberline {2.4.1}Reliability and Availability}{10}{subsubsection.2.4.1}
-\contentsline {subsubsection}{\numberline {2.4.2}Testability}{10}{subsubsection.2.4.2}
-\contentsline {subsection}{\numberline {2.5}Integration and access channel requirements}{11}{subsection.2.5}
-\contentsline {subsection}{\numberline {2.6}Architectural constraints}{12}{subsection.2.6}
-\contentsline {section}{\numberline {3}Architectural patterns or styles}{13}{section.3}
-\contentsline {section}{\numberline {4}Architectural tactics or strategies}{14}{section.4}
-\contentsline {section}{\numberline {5}Use of reference architectures and frameworks}{15}{section.5}
-\contentsline {section}{\numberline {6}Access and integration channels}{16}{section.6}
-\contentsline {section}{\numberline {7}Technologies}{17}{section.7}
+\contentsline {subsubsection}{\numberline {2.2.2}Security}{7}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Usability}{8}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}Integrability}{9}{subsubsection.2.2.4}
+\contentsline {subsection}{\numberline {2.3}Important quality requirements}{10}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Performance}{10}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Plug-ability(Maintainability)}{12}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Monitor-ability}{13}{subsubsection.2.3.3}
+\contentsline {subsection}{\numberline {2.4}Nice to have quality requirements}{14}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Reliability and Availability}{14}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}Testability}{14}{subsubsection.2.4.2}
+\contentsline {subsection}{\numberline {2.5}Integration and access channel requirements}{15}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Architectural constraints}{16}{subsection.2.6}
+\contentsline {section}{\numberline {3}Architectural patterns or styles}{17}{section.3}
+\contentsline {section}{\numberline {4}Architectural tactics or strategies}{18}{section.4}
+\contentsline {section}{\numberline {5}Use of reference architectures and frameworks}{19}{section.5}
+\contentsline {section}{\numberline {6}Access and integration channels}{20}{section.6}
+\contentsline {section}{\numberline {7}Technologies}{21}{section.7}
