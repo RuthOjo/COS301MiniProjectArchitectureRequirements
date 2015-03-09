@@ -33,10 +33,14 @@ This document contains specifications of the software architecture
 \\(when necessary):
 
 \begin{itemize}
-	\item Access and Integration requirements.
-	\item Architectural responsibilities.
 	\item Quality requirements.
-	\item Architecture constraints as specified by the client. 
+	\item Integration and access channel requirements.
+	\item Architectural constraints
+	\item Architectural patterns or styles
+	\item Architectural tactics or strategies
+	\item Use of reference architectures and frameworks
+	\item Access and integration channels
+	\item Technologies
 \end{itemize}
 
 %-----------------PARTS TO EDIT-----------------
@@ -49,13 +53,7 @@ This document contains specifications of the software architecture
 \subsubsection{Scalability}%Ruth
 	\input{Scalability}
 \subsubsection{Security}%Kabelo
-	Description: \\\\
-	Justification: \\\\
-	Mechanism:
-	\begin{enumerate}
-		\item Strategy: 
-		\item Architectural Pattern:
-	\end{enumerate}
+	\input{Security}
 \subsubsection{Usability}%Lindelo
 	Description: \\\\
 	Justification: \\\\
@@ -102,19 +100,31 @@ This document contains specifications of the software architecture
 		\item Architectural Pattern:
 	\end{enumerate}
 \newpage
-\subsection{Integration and access channel requirements}
-\newpage
 \subsection{Architectural constraints}
+	\begin{itemize}
+		\item\textbf{Neo4j}, the preferable database technology, is schema-less, which means a schema change will not affect how the data is stored. It includes other features that would improve Buzz, but JQPL has to be used. \\ 
+		\item\textbf{JPQL} was chosen by the client, although Neo4j would have been better. \\ 
+		\item\textbf{Java EE} is the platform that will be used to implement Buzz, the system is constrained to this platform. \\ 
+		\item\textbf{JSF}, was chosen by the client and forms part of Java EE. \\ 
+		\item\textbf{AJAX} the client requested that this technology be used.  \\ 
+		\item\textbf{HTML} \\
+		\item\textbf{The operating system} that will run the Buzz server is Linux, as requested by the client.
+		\end{itemize}
 \newpage
-\section{Architectural patterns or styles}
+\section{Architectural patterns or styles}%Axel
 \newpage
-\section{Architectural tactics or strategies}
+\section{Architectural tactics or strategies}%Kabelo
 \newpage
-\section{Use of reference architectures and frameworks}
+\section{Use of reference architectures and frameworks}%Thinus
 \newpage
 \section{Access and integration channels}
+\subsection{Access channels}
+\subsubsection{Human access channels}%Maria
+\subsubsection{System access channels}%Roger
+	\input{./System-Access-Channels.tex}
+\subsection{Integration channels}%Sylvester
 \newpage
-\section{Technologies}
+\section{Technologies}%Lindelo and Ruth
 
 
 \end{document}

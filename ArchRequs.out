@@ -13,10 +13,13 @@
 \BOOKMARK [2][-]{subsection.2.4}{Nice to have quality requirements}{section.2}% 13
 \BOOKMARK [3][-]{subsubsection.2.4.1}{Reliability and Availability}{subsection.2.4}% 14
 \BOOKMARK [3][-]{subsubsection.2.4.2}{Testability}{subsection.2.4}% 15
-\BOOKMARK [2][-]{subsection.2.5}{Integration and access channel requirements}{section.2}% 16
-\BOOKMARK [2][-]{subsection.2.6}{Architectural constraints}{section.2}% 17
-\BOOKMARK [1][-]{section.3}{Architectural patterns or styles}{}% 18
-\BOOKMARK [1][-]{section.4}{Architectural tactics or strategies}{}% 19
-\BOOKMARK [1][-]{section.5}{Use of reference architectures and frameworks}{}% 20
-\BOOKMARK [1][-]{section.6}{Access and integration channels}{}% 21
-\BOOKMARK [1][-]{section.7}{Technologies}{}% 22
+\BOOKMARK [2][-]{subsection.2.5}{Architectural constraints}{section.2}% 16
+\BOOKMARK [1][-]{section.3}{Architectural patterns or styles}{}% 17
+\BOOKMARK [1][-]{section.4}{Architectural tactics or strategies}{}% 18
+\BOOKMARK [1][-]{section.5}{Use of reference architectures and frameworks}{}% 19
+\BOOKMARK [1][-]{section.6}{Access and integration channels}{}% 20
+\BOOKMARK [2][-]{subsection.6.1}{Access channels}{section.6}% 21
+\BOOKMARK [3][-]{subsubsection.6.1.1}{Human access channels}{subsection.6.1}% 22
+\BOOKMARK [3][-]{subsubsection.6.1.2}{System access channels}{subsection.6.1}% 23
+\BOOKMARK [2][-]{subsection.6.2}{Integration channels}{section.6}% 24
+\BOOKMARK [1][-]{section.7}{Technologies}{}% 25
