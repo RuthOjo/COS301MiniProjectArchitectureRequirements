@@ -4,7 +4,11 @@
 \contentsline {subsection}{\numberline {2.2}Critical Quality Requirements}{4}{subsection.2.2}
 \contentsline {subsubsection}{\numberline {2.2.1}Scalability}{4}{subsubsection.2.2.1}
 \contentsline {subsubsection}{\numberline {2.2.2}Security}{7}{subsubsection.2.2.2}
+<<<<<<< HEAD
 \contentsline {subsubsection}{\numberline {2.2.3}Usability}{9}{subsubsection.2.2.3}
+=======
+\contentsline {subsubsection}{\numberline {2.2.3}Usability}{8}{subsubsection.2.2.3}
+>>>>>>> origin/master
 \contentsline {subsubsection}{\numberline {2.2.4}Integrability}{10}{subsubsection.2.2.4}
 \contentsline {subsection}{\numberline {2.3}Important Quality Requirements}{11}{subsection.2.3}
 \contentsline {subsubsection}{\numberline {2.3.1}Performance}{11}{subsubsection.2.3.1}
