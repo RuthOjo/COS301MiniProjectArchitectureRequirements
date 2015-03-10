@@ -71,7 +71,14 @@ This document contains specifications of the software architecture
 	Justification: Buzz should be easy to use and the user should be able to remember how Buzz works; despite their long absence. The interface should appear easy to use; the visuals should not frustrate the user.\\\\
 	Mechanism:
 	\begin{enumerate}
-		\item Strategy: 
+		\item Strategy:
+		\begin{itemize}
+			\item Descriptive headings that will not be ambiguous to the user.
+			\item Clear and descriptive "help" messages that will initiate the user into Buzz. 
+			\item Descriptive error messages that will tell the user an error has occurred and the necessary steps to address the errors.
+			\item Grouped content; this will make the interface look easier to use. If a user is looking for content, they should find related content in the same place. Navigation becomes easier.
+			\item A user should be given feedback on their actions. If a page is still loading, for example, the user should be aware that the page is loading.
+		\end{itemize} 
 		\item Architectural Pattern:
 	\end{enumerate}'
 \newpage
