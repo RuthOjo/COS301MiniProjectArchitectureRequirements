@@ -23,3 +23,22 @@
 \BOOKMARK [3][-]{subsubsection.6.1.2}{System Access Channels}{subsection.6.1}% 23
 \BOOKMARK [2][-]{subsection.6.2}{Integration Channels}{section.6}% 24
 \BOOKMARK [1][-]{section.7}{Technologies}{}% 25
+\BOOKMARK [2][-]{subsection.7.1}{Platform}{section.7}% 26
+\BOOKMARK [2][-]{subsection.7.2}{Frameworks}{section.7}% 27
+\BOOKMARK [2][-]{subsection.7.3}{Operating System}{section.7}% 28
+\BOOKMARK [2][-]{subsection.7.4}{Databases}{section.7}% 29
+\BOOKMARK [3][-]{subsubsection.7.4.1}{Relational Databases}{subsection.7.4}% 30
+\BOOKMARK [2][-]{subsection.7.5}{Object Relational Mappers}{section.7}% 31
+\BOOKMARK [2][-]{subsection.7.6}{Languages}{section.7}% 32
+\BOOKMARK [3][-]{subsubsection.7.6.1}{Programming Languages}{subsection.7.6}% 33
+\BOOKMARK [3][-]{subsubsection.7.6.2}{Mark-up Languages}{subsection.7.6}% 34
+\BOOKMARK [2][-]{subsection.7.7}{Application Servers}{section.7}% 35
+\BOOKMARK [2][-]{subsection.7.8}{Dependency Management}{section.7}% 36
+\BOOKMARK [2][-]{subsection.7.9}{Web Services}{section.7}% 37
+\BOOKMARK [2][-]{subsection.7.10}{APIs}{section.7}% 38
+\BOOKMARK [2][-]{subsection.7.11}{Others}{section.7}% 39
+\BOOKMARK [1][-]{section.8}{Recommended Technologies}{}% 40
+\BOOKMARK [2][-]{subsection.8.1}{Databases}{section.8}% 41
+\BOOKMARK [3][-]{subsubsection.8.1.1}{Object Relational Databases}{subsection.8.1}% 42
+\BOOKMARK [3][-]{subsubsection.8.1.2}{NoSQL Databases}{subsection.8.1}% 43
+\BOOKMARK [2][-]{subsection.8.2}{Object Data Mappers}{section.8}% 44
