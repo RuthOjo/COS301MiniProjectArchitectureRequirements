@@ -1,18 +1,9 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.18)  9 MAR 2015 22:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.18)  10 MAR 2015 11:21
 entering extended mode
 **ArchRequs.tex
 
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\ArchR
 equs.tex
-=======
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.22)  9 MAR 2015 13:02
-entering extended mode
-**ArchRequs.tex
-
-("C:\Users\GASwipper Gcc\Documents\COS301MiniProjectArchitectureRequirementss\A
-rchRequs.tex"
->>>>>>> origin/master
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -221,13 +212,8 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks17
 \@floatcapt=\box29
 )
-<<<<<<< HEAD
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\ArchR
 equs.aux)
-=======
-("C:\Users\GASwipper Gcc\Documents\COS301MiniProjectArchitectureRequirementss\A
-rchRequs.aux")
->>>>>>> origin/master
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
@@ -242,12 +228,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
-<<<<<<< HEAD
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
-=======
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
->>>>>>> origin/master
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count107
 \scratchdimen=\dimen113
@@ -275,7 +256,6 @@ LaTeX Info: Redefining \ref on input line 14.
 LaTeX Info: Redefining \pageref on input line 14.
 LaTeX Info: Redefining \nameref on input line 14.
 
-<<<<<<< HEAD
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\ArchR
 equs.out)
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\ArchR
@@ -284,21 +264,9 @@ equs.out)
 \c@lstlisting=\count114
 
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\title
-page.tex <UP_Logo.png, id=91, 900.36375pt x 269.50688pt>
-=======
-("C:\Users\GASwipper Gcc\Documents\COS301MiniProjectArchitectureRequirementss\A
-rchRequs.out")
-("C:\Users\GASwipper Gcc\Documents\COS301MiniProjectArchitectureRequirementss\A
-rchRequs.out")
-\@outlinefile=\write3
-\c@lstlisting=\count114
-
-("C:\Users\GASwipper Gcc\Documents\COS301MiniProjectArchitectureRequirementss\t
-itlepage.tex" <UP_Logo.png, id=111, 900.36375pt x 269.50688pt>
->>>>>>> origin/master
+page.tex <UP_Logo.png, id=103, 900.36375pt x 269.50688pt>
 File: UP_Logo.png Graphic file (type png)
-
-<use UP_Logo.png>
+ <use UP_Logo.png>
 Package pdftex.def Info: UP_Logo.png used on input line 6.
 (pdftex.def)             Requested size: 351.31378pt x 105.1607pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -314,326 +282,214 @@ Overfull \hbox (47.57065pt too wide) in paragraph at lines 33--34
 
 [1
 
-<<<<<<< HEAD
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Ruth/Documents/G
 itHub/COS301MiniProjectArchitectureRequirements/UP_Logo.png>])
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\ArchR
 equs.toc
-=======
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/GASwipper Gcc/Do
-cuments/COS301MiniProjectArchitectureRequirementss/UP_Logo.png>])
-("C:\Users\GASwipper Gcc\Documents\COS301MiniProjectArchitectureRequirementss\A
-rchRequs.toc"
->>>>>>> origin/master
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
 )
 \tf@toc=\write4
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.24 \newpage
-              [1]
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
-
- []
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 36.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+l.33 
+      [1]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 35.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
- [2] [3]
-<<<<<<< HEAD
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
+
+[2] [3]
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Scala
 bility.tex
-=======
-("C:\Users\GASwipper Gcc\Documents\COS301MiniProjectArchitectureRequirementss\S
-calability.tex"
->>>>>>> origin/master
 Underfull \hbox (badness 10000) in paragraph at lines 7--9
 
  []
 
 
-<<<<<<< HEAD
 Overfull \hbox (2.80283pt too wide) in paragraph at lines 12--14
 []\OT1/cmr/m/n/12 Efficient use of stor-age: data stor-age can be ef-fi-ciently
  used through
  []
 
-[4] [5] <Scalability.png, id=153, 442.65375pt x 471.7625pt>
+[4] [5] <Scalability.png, id=168, 442.65375pt x 471.7625pt>
 File: Scalability.png Graphic file (type png)
 
 <use Scalability.png>
 Package pdftex.def Info: Scalability.png used on input line 42.
 (pdftex.def)             Requested size: 390.0pt x 415.67056pt.
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 11--13
-
- []
-
-)
-("C:\Users\GASwipper Gcc\Documents\COS301MiniProjectArchitectureRequirementss\S
-ecurity.tex" [4]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--14
->>>>>>> origin/master
 
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 42--43
  [][] 
  []
 
-<<<<<<< HEAD
 ) [6pdfTeX warning (ext4): destination with the same identifier (name{figure.1}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.52 \newpage
+l.54 \newpage
               <C:/Users/Ruth/Documents/GitHub/COS301MiniProjectArchitectureRequ
 irements/Scalability.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 54--57
-=======
+Underfull \hbox (badness 10000) in paragraph at lines 56--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--60
+
+ []
+
+[7]
+(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Secur
+ity.tex
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
 
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
->>>>>>> origin/master
 
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 54--57
-
- []
-
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 63--66
-=======
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
-[5])
-Underfull \hbox (badness 10000) in paragraph at lines 58--61
+[8])
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--61
->>>>>>> origin/master
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
 
  []
 
-
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 63--66
-=======
-("C:\Users\GASwipper Gcc\Documents\COS301MiniProjectArchitectureRequirementss\I
-ntegrability_Quality_Requirement.tex" [6]) [7]
-("C:\Users\GASwipper Gcc\Documents\COS301MiniProjectArchitectureRequirementss\P
-erformance.tex" [8]) [9]
-("C:\Users\GASwipper Gcc\Documents\COS301MiniProjectArchitectureRequirementss\p
-lug-ability.tex") [10]
-Underfull \hbox (badness 10000) in paragraph at lines 77--80
->>>>>>> origin/master
-
- []
-
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 72--75
-
- []
-
-<<<<<<< HEAD
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--75
-
- []
-
-[9] [10] [11]
+[9]
+(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Integ
+rability_Quality_Requirement.tex) [10]
+(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Perfo
+rmance.tex [11]) [12]
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\plug-
-ability.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 77--80
-
- []
-
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 87--90
->>>>>>> origin/master
+ability.tex) [13]
+Underfull \hbox (badness 10000) in paragraph at lines 89--92
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--90
+Underfull \hbox (badness 10000) in paragraph at lines 89--92
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--98
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--98
-
- []
-
-<<<<<<< HEAD
-) [12]
-Underfull \hbox (badness 10000) in paragraph at lines 110--113
-=======
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
->>>>>>> origin/master
+Underfull \hbox (badness 10000) in paragraph at lines 107--110
 
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 110--113
+Underfull \hbox (badness 10000) in paragraph at lines 107--110
 
  []
 
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 120--123
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
->>>>>>> origin/master
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
 
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 120--123
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
->>>>>>> origin/master
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 128--131
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
->>>>>>> origin/master
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
 
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 128--131
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
-[14] [15] [16] [17] [18] [19] [20]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 151.
- [21]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+[16] [17] [18] [19]
+(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Syste
+m-Access-Channels.tex)
+(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Integ
+ration_Requirements_1.tex [20]) [21]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
+ [22]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
 
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\ArchR
 equs.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 151.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 151.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 143.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
 Package rerunfilecheck Info: File `ArchRequs.out' has not changed.
-(rerunfilecheck)             Checksum: 81263EEFC714FF334CF76C7F1D4F00EE;1613.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 151.
+(rerunfilecheck)             Checksum: 4384DBA3F762691DA1971DBD27B31E09;1822.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
  ) 
 Here is how much of TeX's memory you used:
- 6316 strings out of 493921
- 94620 string characters out of 3144879
- 173598 words of memory out of 3000000
- 9503 multiletter control sequences out of 15000+200000
+ 6355 strings out of 493921
+ 95968 string characters out of 3144879
+ 174598 words of memory out of 3000000
+ 9506 multiletter control sequences out of 15000+200000
  10246 words of font info for 36 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 29i,7n,32p,595b,461s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,7n,32p,590b,515s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Pr
 ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Prog
 ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on ArchRequs.pdf (22 pages, 340441 bytes).
+Output written on ArchRequs.pdf (23 pages, 352695 bytes).
 PDF statistics:
- 280 PDF objects out of 1000 (max. 8388607)
- 70 named destinations out of 1000 (max. 500000)
- 187 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
-
- []
-
-[13] [14] [15] [16]
-("C:\Users\GASwipper Gcc\Documents\COS301MiniProjectArchitectureRequirementss\S
-ystem-Access-Channels.tex")
-("C:\Users\GASwipper Gcc\Documents\COS301MiniProjectArchitectureRequirementss\I
-ntegration_Requirements_1.tex" [17]) [18]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
- [19]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
-
-("C:\Users\GASwipper Gcc\Documents\COS301MiniProjectArchitectureRequirementss\A
-rchRequs.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
-
-
-Package rerunfilecheck Warning: File `ArchRequs.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `ArchRequs.out':
-(rerunfilecheck)             Before: F5A42B829751E8E705892FB5BDE5EA05;1941
-(rerunfilecheck)             After:  4384DBA3F762691DA1971DBD27B31E09;1822.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 131.
- ) 
-Here is how much of TeX's memory you used:
- 6344 strings out of 493921
- 95930 string characters out of 3144852
- 174498 words of memory out of 3000000
- 9499 multiletter control sequences out of 15000+200000
- 10246 words of font info for 36 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 29i,5n,32p,590b,515s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{subsection.6.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.6.3} has been referenced but does not ex
-ist, replaced by a fixed one
-
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on ArchRequs.pdf (20 pages, 321277 bytes).
-PDF statistics:
- 311 PDF objects out of 1000 (max. 8388607)
- 87 named destinations out of 1000 (max. 500000)
- 222 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> origin/master
+ 321 PDF objects out of 1000 (max. 8388607)
+ 91 named destinations out of 1000 (max. 500000)
+ 211 words of extra memory for PDF output out of 10000 (max. 10000000)
 
