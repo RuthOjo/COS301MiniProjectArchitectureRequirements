@@ -1,13 +1,24 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.17)  10 MAR 2015 12:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.26)  10 MAR 2015 18:06
 entering extended mode
 **ArchRequs.tex
-(ArchRequs.tex
-LaTeX2e <2014/05/01>
-Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+
+(C:\Users\Thinus\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Arc
+hRequs.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -22,14 +33,14 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
@@ -131,7 +142,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count91
 
-(C:\Users\Roger\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+(C:\Users\Thinus\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -168,7 +179,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip43
 )
-(C:\Users\Roger\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+(C:\Users\Thinus\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
 \lst@mode=\count98
 \lst@gtempboxa=\box26
 \lst@token=\toks15
@@ -182,13 +193,13 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \lst@lineno=\count103
 \lst@maxwidth=\dimen112
 
-(C:\Users\Roger\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+(C:\Users\Thinus\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
 File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
 \c@lstnumber=\count104
 \lst@skipnumbers=\count105
 \lst@framebox=\box27
 )
-(C:\Users\Roger\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+(C:\Users\Thinus\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
 File: listings.cfg 2014/09/06 1.5e listings configuration
 ))
 Package: listings 2014/09/06 1.5e (Carsten Heinz)
@@ -200,7 +211,9 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box28
 \@float@everytoks=\toks17
 \@floatcapt=\box29
-) (ArchRequs.aux)
+)
+(C:\Users\Thinus\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Arc
+hRequs.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
@@ -215,7 +228,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
-(C:\Users\Roger\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+
+(C:\Users\Thinus\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count107
 \scratchdimen=\dimen113
@@ -243,11 +257,15 @@ LaTeX Info: Redefining \ref on input line 14.
 LaTeX Info: Redefining \pageref on input line 14.
 LaTeX Info: Redefining \nameref on input line 14.
 
-(ArchRequs.out) (ArchRequs.out)
+(C:\Users\Thinus\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Arc
+hRequs.out)
+(C:\Users\Thinus\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Arc
+hRequs.out)
 \@outlinefile=\write3
 \c@lstlisting=\count114
- (titlepage.tex
-<UP_Logo.png, id=103, 900.36375pt x 269.50688pt>
+
+(C:\Users\Thinus\Documents\GitHub\COS301MiniProjectArchitectureRequirements\tit
+lepage.tex <UP_Logo.png, id=103, 900.36375pt x 269.50688pt>
 File: UP_Logo.png Graphic file (type png)
  <use UP_Logo.png>
 Package pdftex.def Info: UP_Logo.png used on input line 6.
@@ -265,8 +283,11 @@ Overfull \hbox (47.57065pt too wide) in paragraph at lines 33--34
 
 [1
 
-{C:/Users/Roger/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./UP_Logo.p
-ng>]) (ArchRequs.toc
+{C:/Users/Thinus/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/T
+hinus/Documents/GitHub/COS301MiniProjectArchitectureRequirements/UP_Logo.png>])
+
+(C:\Users\Thinus\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Arc
+hRequs.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -290,12 +311,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 36.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
  [2] [3]
-(Scalability.tex
+(C:\Users\Thinus\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Sca
+lability.tex
 Underfull \hbox (badness 10000) in paragraph at lines 7--9
 
  []
@@ -323,7 +345,8 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 42--43
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.55 \newpage
-              <./Scalability.png>]
+              <C:/Users/Thinus/Documents/GitHub/COS301MiniProjectArchitectureRe
+quirements/Scalability.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 57--61
 
  []
@@ -333,7 +356,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--61
 
  []
 
-[7] (Security.tex
+[7]
+(C:\Users\Thinus\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Sec
+urity.tex
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
@@ -365,8 +390,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--73
 
  []
 
-[9] [10] (Integrability_Quality_Requirement.tex) [11] (Performance.tex [12])
-[13] (plug-ability.tex) [14]
+[9] [10]
+(C:\Users\Thinus\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Int
+egrability_Quality_Requirement.tex) [11]
+(C:\Users\Thinus\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Per
+formance.tex [12]) [13]
+(C:\Users\Thinus\Documents\GitHub\COS301MiniProjectArchitectureRequirements\plu
+g-ability.tex) [14]
 Underfull \hbox (badness 10000) in paragraph at lines 97--100
 
  []
@@ -426,25 +456,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
-[17] [18] [19] [20] (System-Access-Channels.tex)
-(Integration_Requirements_1.tex [21]) [22]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 151.
+[17] [18] [19] <ReferenceArchitecture.png, id=263, 379.4175pt x 362.35374pt>
+File: ReferenceArchitecture.png Graphic file (type png)
+
+<use ReferenceArchitecture.png>
+Package pdftex.def Info: ReferenceArchitecture.png used on input line 153.
+(pdftex.def)             Requested size: 331.50238pt x 316.59984pt.
+ [20pdfTeX warning (ext4): destination with the same identifier (name{figure.2}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.157 \newpage
+               <C:/Users/Thinus/Documents/GitHub/COS301MiniProjectArchitectureR
+equirements/ReferenceArchitecture.png>]
+(C:\Users\Thinus\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Sys
+tem-Access-Channels.tex)
+(C:\Users\Thinus\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Int
+egration_Requirements_1.tex [21]) [22]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 169.
  [23]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
- (ArchRequs.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 151.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 151.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 169.
+
+(C:\Users\Thinus\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Arc
+hRequs.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 169.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 169.
 Package rerunfilecheck Info: File `ArchRequs.out' has not changed.
 (rerunfilecheck)             Checksum: 4384DBA3F762691DA1971DBD27B31E09;1822.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 151.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 169.
  ) 
 Here is how much of TeX's memory you used:
- 6354 strings out of 493698
- 93969 string characters out of 3141994
- 177594 words of memory out of 3000000
- 9537 multiletter control sequences out of 15000+200000
- 10246 words of font info for 36 fonts, out of 3000000 for 9000
- 1025 hyphenation exceptions out of 8191
+ 6364 strings out of 493921
+ 96336 string characters out of 3144873
+ 173682 words of memory out of 3000000
+ 9512 multiletter control sequences out of 15000+200000
+ 10593 words of font info for 37 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
  29i,7n,32p,590b,515s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
@@ -452,9 +500,9 @@ Here is how much of TeX's memory you used:
 ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Prog
 ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on ArchRequs.pdf (24 pages, 354268 bytes).
+Output written on ArchRequs.pdf (24 pages, 383083 bytes).
 PDF statistics:
- 325 PDF objects out of 1000 (max. 8388607)
- 92 named destinations out of 1000 (max. 500000)
- 211 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 330 PDF objects out of 1000 (max. 8388607)
+ 93 named destinations out of 1000 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
 

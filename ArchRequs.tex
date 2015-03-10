@@ -128,7 +128,13 @@ This document contains specifications of the software architecture
 		\item\textbf{JSF}, was chosen by the client and forms part of Java EE. \\ 
 		\item\textbf{AJAX} the client requested that this technology be used.  \\ 
 		\item\textbf{HTML} \\
-		\item\textbf{The operating system} that will run the Buzz server is Linux, as requested by the client.
+		\item\textbf{The operating system} that will run the Buzz server is Linux, as requested by the client. We recommend Debian as the Linux distribution to use because:  
+		\begin{itemize}
+			\item Very complete.
+			\item Supportive and active community 
+			\item Multi-arch/kernel support
+			\item Very stable and allows you your freedom
+		\end{itemize}
 		\end{itemize}
 \newpage
 \section{Architectural Patterns or Styles}%Axel
@@ -136,6 +142,18 @@ This document contains specifications of the software architecture
 \section{Architectural Tactics or Strategies}%Kabelo
 \newpage
 \section{Use of Reference Architectures and Frameworks}%Thinus
+A reference architecture provides a template solution for an architecture for a particular domain. We will use as our reference architecture the Java Platform, Enterprise Edition (Java EE) and Model View Controller framework for the Buzz Space system. 
+Java EE includes an API and runtime environment for developing and running \textit{large-scale, multi-tiered, scalable, reliable, and secure network applications}.
+
+Java EE will be used to implement a tiered architectural structure, each tier or layer containing one ore more of the Buzz Space modules in conjunction with Java EE modules. 
+
+A multi-tiered application is thus an application where \textit{the functionality of the application is separated into isolated functional areas, called tiers}. An example of this can be seen in figure~\ref{fig:refarchandmvc} on page~\pageref{fig:refarchandmvc}.
+\begin{figure}[H]
+	\centering
+	\fbox{\includegraphics[width=0.85\textwidth]{ReferenceArchitecture}}
+	\caption{A basic overview of the buzz space tiered/layered application.}
+	\label{fig:refarchandmvc}
+\end{figure}
 \newpage
 \section{Access and Integration Channels}
 \subsection{Access Channels}
