@@ -1,0 +1,25 @@
+This section discusses the boundaries and extent or range of view, outlook, applications, operations or effectiveness the system software architectur needs to address. 
+More spesificaly we will be looking at the following three topics in depth. Persistence, Reporting and Process execution.
+
+\subsubsection{Persistence:}
+	Buzz Space needs to be percistant in order for states to be stored and outlive the many
+	processes done. It will do so by making use of the following:
+
+		\begin{itemize}
+			\item Databases, to store and retrieve user accounts data and information.
+			\item Java Data Objects (JDO), a specification of Java object persistence. With it's great
+			 transparency feature of the persistence services to the domain model.
+			\item System prevalence, a technique that joins system images and transaction journals to achieve percistancey.
+		\end{itemize}
+	
+	
+	\subsubsection{Reporting}
+	\subsubsection*{Description:}
+		Segregates the system into two applications, where the client makes requests to the server. In many cases, the server is a database with application logic represented as stored procedures.
+			
+			
+	%Layered Architecture
+				\subsubsection{Layered Architecture}
+				\subsubsection*{Description:}
+				Partitions the concerns of the application into stacked groups (layers).
+						
