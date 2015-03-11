@@ -1,6 +1,8 @@
 
 	\subsubsection*{Description}
 		The system should support fewer than 2 restarts per month, and be accessible both on the campus and via the internet. We would recommend 99.7 percent availability. We would also recommend a mean time between errors of > 5 days to ensure that appropriate time to backup sensitive data is provided.
+		
+		
 	\subsubsection*{Justification}
 	Although the reliability and available attributes are non-essential, buy they can still cause a great number of problems when access goes down. These problems include, but are not limited to: 
 	
@@ -19,28 +21,19 @@
 	External access to the system would prove very useful to many students as they would be able to, in the case of illness or other absence, still communicate with their peers in a particular class and gain a modicum of understanding regarding the scope of the missed work or important announcements.
 	A high reliability rate is recommended to ensure that users do not encounter errors and/or data corruption in their day to day use. A rate of more than one error per day would be completely unacceptable.
 		
-	
-	
-	
 	\subsubsection*{Mechanism}
 		\begin{enumerate}
 			\item Strategy:\\\\
 			To ensure high reliability a pattern should be used that keeps user data sent and received well structured (while still meeting the stated security concerns).
 			In cases related to reading and writing from the database we would recommend that parallel updates be avoided and a single object used to stream all database modifications effectively, reducing data redundancy an inaccuracy. 	
 			
-			
 			 \item Pattern/Tools:\\\\
-			Pipelining Pattern, Singleton
-			 
+			Pipelining Pattern, Singleton 
 		\end{enumerate}
-		
 			
-			
-			\subsubsection*{Availability}
+		\subsubsection*{Availability}
 				\begin{enumerate}
 				\item Strategy:\\\\
 				The use of 2 servers connected to the internet that would make external access possible. This would also heavily reduce downtime, as a temporary server can be run while the other is maintained. We would recommend the use of a proxy pattern, perhaps using redirect functionality provided by the strategy pattern to facilitate switching between servers or to hold pending data should users try to post while the database is down.
-				Pattern: Proxy, Strategy
-				
-								 
+				Pattern: Proxy, Strategy				 
 				\end{enumerate}
