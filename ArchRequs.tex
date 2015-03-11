@@ -54,9 +54,11 @@ The following non-functional requirements are addressed in depth with supporting
 \subsubsection{Security}%Kabelo
 	\input{Security}
 \subsubsection{Usability}%Lindelo
-	Description: Buzz should be easy to use and the user should be able to remember how Buzz works; despite their long absence. The interface should appear easy to use; the visuals should not frustrate the user.\\\\
-	Justification:Usability is critical because Buzz is user-oriented and requires that users don't get frustrated with the interface. \\\\
-	Mechanism:
+	\subsubsection*{Description}
+	Buzz should be easy to use and the user should be able to remember how Buzz works; despite their long absence. The interface should appear easy to use; the visuals should not frustrate the user.
+	\subsubsection*{Justification}
+	Usability is critical because Buzz is user-oriented and requires that users don't get frustrated with the interface. 
+	\subsubsection*{Mechanism}
 	\begin{enumerate}
 		\item Strategy:
 		\begin{itemize}
@@ -66,8 +68,8 @@ The following non-functional requirements are addressed in depth with supporting
 			\item Grouped content; this will make the interface look easier to use. If a user is looking for content, they should find related content in the same place. Navigation becomes easier.
 			\item A user should be given feedback on their actions. If a page is still loading, for example, the user should be aware that the page is loading.
 		\end{itemize} 
-		\item Architectural Pattern:
-	\end{enumerate}'
+		\item Architectural Pattern(s):
+	\end{enumerate}
 \newpage
 \subsubsection{Integrability}%Sylvester
 	\input{Integrability_Quality_Requirement}
@@ -98,15 +100,14 @@ The following non-functional requirements are addressed in depth with supporting
 \subsection{Architectural Constraints}
 	\begin{itemize}
 		%\item\textbf{Neo4j}, the preferable database technology, is schema-less, which means a schema change will not affect how the data is stored. It includes other features that would improve Buzz, but JQPL has to be used. \\ 
-		\item\textbf{JPQL} was chosen by the client, although Neo4j would have been better. \\ 
-		\item\textbf{Java EE} is the platform that will be used to implement Buzz, the system is constrained to this platform. \\ 
-		\item\textbf{JSF}, was chosen by the client and forms part of Java EE. \\ 
-		\item\textbf{AJAX} the client requested that this technology be used.  \\ 
-<<<<<<< HEAD
-		\item\textbf{HTML} is the only markup language that can be used as specified by the client.\\
-		\item\textbf{The operating system} that will run the Buzz server is Linux, as requested by the client.
-=======
-		\item\textbf{HTML} \\
+		\item\textbf{JPQL} was chosen by the client, although Neo4j would have been better. 
+		\item\textbf{Java EE} is the platform that will be used to implement Buzz, the system is constrained to this platform.
+		\item\textbf{JSF}, was chosen by the client and forms part of Java EE. 
+		\item\textbf{AJAX} the client requested that this technology be used. 
+%<<<<<<< HEAD
+		\item\textbf{HTML} is the only markup language that can be used as specified by the client.
+		%\item\textbf{The operating system} that will run the Buzz server is Linux, as requested by the client.
+%=======
 		\item\textbf{The operating system} that will run the Buzz server is Linux, as requested by the client. We recommend Debian as the Linux distribution to use because:  
 		\begin{itemize}
 			\item Very complete.
@@ -114,7 +115,7 @@ The following non-functional requirements are addressed in depth with supporting
 			\item Multi-arch/kernel support
 			\item Very stable and allows you your freedom
 		\end{itemize}
->>>>>>> origin/master
+%>>>>>>> origin/master
 		\end{itemize}
 \newpage
 \section{Architectural Patterns or Styles}%Axel
