@@ -15,30 +15,34 @@
 \BOOKMARK [3][-]{subsubsection.2.4.2}{Testability}{subsection.2.4}% 15
 \BOOKMARK [2][-]{subsection.2.5}{Architectural Constraints}{section.2}% 16
 \BOOKMARK [1][-]{section.3}{Architectural Patterns or Styles}{}% 17
-\BOOKMARK [1][-]{section.4}{Architectural Tactics or Strategies}{}% 18
-\BOOKMARK [1][-]{section.5}{Use of Reference Architectures and Frameworks}{}% 19
-\BOOKMARK [1][-]{section.6}{Access and Integration Channels}{}% 20
-\BOOKMARK [2][-]{subsection.6.1}{Access Channels}{section.6}% 21
-\BOOKMARK [3][-]{subsubsection.6.1.1}{Human Access Channels}{subsection.6.1}% 22
-\BOOKMARK [3][-]{subsubsection.6.1.2}{System Access Channels}{subsection.6.1}% 23
-\BOOKMARK [2][-]{subsection.6.2}{Integration Channels}{section.6}% 24
-\BOOKMARK [1][-]{section.7}{Technologies}{}% 25
-\BOOKMARK [2][-]{subsection.7.1}{Platform}{section.7}% 26
-\BOOKMARK [2][-]{subsection.7.2}{Frameworks}{section.7}% 27
-\BOOKMARK [2][-]{subsection.7.3}{Operating System}{section.7}% 28
-\BOOKMARK [2][-]{subsection.7.4}{Databases}{section.7}% 29
-\BOOKMARK [3][-]{subsubsection.7.4.1}{Relational Databases}{subsection.7.4}% 30
-\BOOKMARK [2][-]{subsection.7.5}{Object Relational Mappers}{section.7}% 31
-\BOOKMARK [2][-]{subsection.7.6}{Languages}{section.7}% 32
-\BOOKMARK [3][-]{subsubsection.7.6.1}{Programming Languages}{subsection.7.6}% 33
-\BOOKMARK [3][-]{subsubsection.7.6.2}{Mark-up Languages}{subsection.7.6}% 34
-\BOOKMARK [2][-]{subsection.7.7}{Application Servers}{section.7}% 35
-\BOOKMARK [2][-]{subsection.7.8}{Dependency Management}{section.7}% 36
-\BOOKMARK [2][-]{subsection.7.9}{Web Services}{section.7}% 37
-\BOOKMARK [2][-]{subsection.7.10}{APIs}{section.7}% 38
-\BOOKMARK [2][-]{subsection.7.11}{Others}{section.7}% 39
-\BOOKMARK [1][-]{section.8}{Recommended Technologies}{}% 40
-\BOOKMARK [2][-]{subsection.8.1}{Databases}{section.8}% 41
-\BOOKMARK [3][-]{subsubsection.8.1.1}{Object Relational Databases}{subsection.8.1}% 42
-\BOOKMARK [3][-]{subsubsection.8.1.2}{NoSQL Databases}{subsection.8.1}% 43
-\BOOKMARK [2][-]{subsection.8.2}{Object Data Mappers}{section.8}% 44
+\BOOKMARK [2][-]{subsubsection.3.0.1}{Object-Oriented}{section.3}% 18
+\BOOKMARK [3][-]{subsubsection.3.0.2}{Client/Server}{subsubsection.3.0.1}% 19
+\BOOKMARK [3][-]{subsubsection.3.0.3}{Component-Based Architecture}{subsubsection.3.0.1}% 20
+\BOOKMARK [3][-]{subsubsection.3.0.4}{Layered Architecture}{subsubsection.3.0.1}% 21
+\BOOKMARK [1][-]{section.4}{Architectural Tactics or Strategies}{}% 22
+\BOOKMARK [1][-]{section.5}{Use of Reference Architectures and Frameworks}{}% 23
+\BOOKMARK [1][-]{section.6}{Access and Integration Channels}{}% 24
+\BOOKMARK [2][-]{subsection.6.1}{Access Channels}{section.6}% 25
+\BOOKMARK [3][-]{subsubsection.6.1.1}{Human Access Channels}{subsection.6.1}% 26
+\BOOKMARK [3][-]{subsubsection.6.1.2}{System Access Channels}{subsection.6.1}% 27
+\BOOKMARK [2][-]{subsection.6.2}{Integration Channels}{section.6}% 28
+\BOOKMARK [1][-]{section.7}{Technologies}{}% 29
+\BOOKMARK [2][-]{subsection.7.1}{Platform}{section.7}% 30
+\BOOKMARK [2][-]{subsection.7.2}{Frameworks}{section.7}% 31
+\BOOKMARK [2][-]{subsection.7.3}{Operating System}{section.7}% 32
+\BOOKMARK [2][-]{subsection.7.4}{Databases}{section.7}% 33
+\BOOKMARK [3][-]{subsubsection.7.4.1}{Relational Databases}{subsection.7.4}% 34
+\BOOKMARK [2][-]{subsection.7.5}{Object Relational Mappers}{section.7}% 35
+\BOOKMARK [2][-]{subsection.7.6}{Languages}{section.7}% 36
+\BOOKMARK [3][-]{subsubsection.7.6.1}{Programming Languages}{subsection.7.6}% 37
+\BOOKMARK [3][-]{subsubsection.7.6.2}{Mark-up Languages}{subsection.7.6}% 38
+\BOOKMARK [2][-]{subsection.7.7}{Application Servers}{section.7}% 39
+\BOOKMARK [2][-]{subsection.7.8}{Dependency Management}{section.7}% 40
+\BOOKMARK [2][-]{subsection.7.9}{Web Services}{section.7}% 41
+\BOOKMARK [2][-]{subsection.7.10}{APIs}{section.7}% 42
+\BOOKMARK [2][-]{subsection.7.11}{Others}{section.7}% 43
+\BOOKMARK [1][-]{section.8}{Recommended Technologies}{}% 44
+\BOOKMARK [2][-]{subsection.8.1}{Databases}{section.8}% 45
+\BOOKMARK [3][-]{subsubsection.8.1.1}{Object Relational Databases}{subsection.8.1}% 46
+\BOOKMARK [3][-]{subsubsection.8.1.2}{NoSQL Databases}{subsection.8.1}% 47
+\BOOKMARK [2][-]{subsection.8.2}{Object Data Mappers}{section.8}% 48
