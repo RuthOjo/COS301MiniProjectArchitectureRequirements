@@ -1,0 +1,13 @@
+	\subsubsection*{Mechanism}
+		\begin{enumerate}
+			\item Strategy:\\\\
+		\begin{itemize}
+			\item	Black-box examines the functionality of an application without peering into its internal structures or workings. This strategy will be employed when no information is known about a component, module or the system as a whole.
+			\item	White-box tests internal structures or workings of an application. This requires the explicit knowledge of the internal workings of the system (Space Buzz).
+		\end{itemize}
+		
+		\begin{itemize}
+			 \item Pattern:\\\\
+			\item	Layering:  Simplify testability since high level issues will be separated from low level issues. This level of granularity makes the system to be easily testable on every layer separately.
+			\item Model View Controller: Space Buzz model will be separate from the view and the controller, hence it will be much simpler to have separate test criteria testing different cases. This separation simplifies the development cycle since the model, view or the controller could be tested independently. 
+		\end{itemize}
