@@ -1,9 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.18)  10 MAR 2015 20:54
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.2)  11 MAR 2015 03:20
 entering extended mode
 **ArchRequs.tex
-
-(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\ArchR
-equs.tex
+("C:\Users\KWASI\Desktop\2015 CEO\COS 301\phase2\gitFiles\ArchRequs.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -15,9 +13,9 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -32,31 +30,31 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count87
@@ -64,14 +62,14 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -112,25 +110,25 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen105
 \Hy@linkcounter=\count88
 \Hy@pagecounter=\count89
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count90
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -142,7 +140,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count91
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -167,19 +165,19 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count96
 \c@bookmark@seq@number=\count97
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip43
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
 \lst@mode=\count98
 \lst@gtempboxa=\box26
 \lst@token=\toks15
@@ -193,18 +191,18 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \lst@lineno=\count103
 \lst@maxwidth=\dimen112
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
 \c@lstnumber=\count104
 \lst@skipnumbers=\count105
 \lst@framebox=\box27
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
 File: listings.cfg 2014/09/06 1.5e listings configuration
 ))
 Package: listings 2014/09/06 1.5e (Carsten Heinz)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count106
 \float@exts=\toks16
@@ -212,8 +210,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks17
 \@floatcapt=\box29
 )
-(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\ArchR
-equs.aux)
+("C:\Users\KWASI\Desktop\2015 CEO\COS 301\phase2\gitFiles\ArchRequs.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
@@ -228,7 +225,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count107
 \scratchdimen=\dimen113
@@ -244,10 +242,10 @@ LaTeX Font Info:    ... okay on input line 14.
 )
 \AtBeginShipoutBox=\box31
 Package hyperref Info: Link coloring OFF on input line 14.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count113
@@ -256,15 +254,13 @@ LaTeX Info: Redefining \ref on input line 14.
 LaTeX Info: Redefining \pageref on input line 14.
 LaTeX Info: Redefining \nameref on input line 14.
 
-(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\ArchR
-equs.out)
-(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\ArchR
-equs.out)
+("C:\Users\KWASI\Desktop\2015 CEO\COS 301\phase2\gitFiles\ArchRequs.out")
+("C:\Users\KWASI\Desktop\2015 CEO\COS 301\phase2\gitFiles\ArchRequs.out")
 \@outlinefile=\write3
 \c@lstlisting=\count114
 
-(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\title
-page.tex <UP_Logo.png, id=179, 900.36375pt x 269.50688pt>
+("C:\Users\KWASI\Desktop\2015 CEO\COS 301\phase2\gitFiles\titlepage.tex"
+<UP_Logo.png, id=179, 900.36375pt x 269.50688pt>
 File: UP_Logo.png Graphic file (type png)
  <use UP_Logo.png>
 Package pdftex.def Info: UP_Logo.png used on input line 6.
@@ -282,10 +278,9 @@ Overfull \hbox (47.57065pt too wide) in paragraph at lines 33--34
 
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Ruth/Documents/G
-itHub/COS301MiniProjectArchitectureRequirements/UP_Logo.png>])
-(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\ArchR
-equs.toc
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/KWASI/Desktop/20
+15 CEO/COS 301/phase2/gitFiles/UP_Logo.png>])
+("C:\Users\KWASI\Desktop\2015 CEO\COS 301\phase2\gitFiles\ArchRequs.toc"
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -294,19 +289,18 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.36 ...Dependency Management}{23}{subsection.7.8}
+l.36 ...Dependency Management}{24}{subsection.7.8}
                                                    [1])
 \tf@toc=\write4
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 33.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
  [2] [3]
-(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Scala
-bility.tex
+("C:\Users\KWASI\Desktop\2015 CEO\COS 301\phase2\gitFiles\Scalability.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 7--9
 
  []
@@ -334,10 +328,9 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 42--43
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.52 \newpage
-              <C:/Users/Ruth/Documents/GitHub/COS301MiniProjectArchitectureRequ
-irements/Scalability.png>]
-(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Secur
-ity.tex
+              <C:/Users/KWASI/Desktop/2015 CEO/COS 301/phase2/gitFiles/Scalabil
+ity.png>] ("C:\Users\KWASI\Desktop\2015 CEO\COS 301\phase2\gitFiles\Security.te
+x"
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
@@ -370,12 +363,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--59
  []
 
 [8] [9]
-(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Integ
-rability_Quality_Requirement.tex) [10]
-(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Perfo
-rmance.tex [11]) [12]
-(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\plug-
-ability.tex) [13]
+("C:\Users\KWASI\Desktop\2015 CEO\COS 301\phase2\gitFiles\Integrability_Quality
+_Requirement.tex") [10]
+("C:\Users\KWASI\Desktop\2015 CEO\COS 301\phase2\gitFiles\Performance.tex"
+[11]) [12]
+("C:\Users\KWASI\Desktop\2015 CEO\COS 301\phase2\gitFiles\plug-ability.tex")
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 83--86
 
  []
@@ -430,55 +423,66 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--121
 
  []
 
-[16] [17] [18] <ReferenceArchitecture.png, id=352, 379.4175pt x 362.35374pt>
+[16] [17]
+("C:\Users\KWASI\Desktop\2015 CEO\COS 301\phase2\gitFiles\Tactics_or_Strategies
+.tex" [18]
+Overfull \hbox (2.25005pt too wide) in paragraph at lines 51--52
+[]\OT1/cmr/m/n/12 Checkpoint/rollback: the states of the com-po-nents will be r
+ecorded
+ []
+
+[19]) [20] <ReferenceArchitecture.png, id=374, 379.4175pt x 362.35374pt>
 File: ReferenceArchitecture.png Graphic file (type png)
 
 <use ReferenceArchitecture.png>
-Package pdftex.def Info: ReferenceArchitecture.png used on input line 144.
+Package pdftex.def Info: ReferenceArchitecture.png used on input line 145.
 (pdftex.def)             Requested size: 331.50238pt x 316.59984pt.
- [19pdfTeX warning (ext4): destination with the same identifier (name{figure.2}
+ [21pdfTeX warning (ext4): destination with the same identifier (name{figure.2}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.148 \newpage
-               <C:/Users/Ruth/Documents/GitHub/COS301MiniProjectArchitectureReq
-uirements/ReferenceArchitecture.png>]
-(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Syste
-m-Access-Channels.tex)
-(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Integ
-ration_Requirements_1.tex [20]) [21]
-(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Techn
-ologies.tex [22] [23])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 160.
- [24]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
+l.149 \newpage
+               <C:/Users/KWASI/Desktop/2015 CEO/COS 301/phase2/gitFiles/Referen
+ceArchitecture.png>]
+("C:\Users\KWASI\Desktop\2015 CEO\COS 301\phase2\gitFiles\System-Access-Channel
+s.tex")
+("C:\Users\KWASI\Desktop\2015 CEO\COS 301\phase2\gitFiles\Integration_Requireme
+nts_1.tex" [22]) [23]
+("C:\Users\KWASI\Desktop\2015 CEO\COS 301\phase2\gitFiles\Technologies.tex"
+[24] [25])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
+ [26]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 161.
 
-(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\ArchR
-equs.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 160.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 160.
+("C:\Users\KWASI\Desktop\2015 CEO\COS 301\phase2\gitFiles\ArchRequs.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 161.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 161.
 Package rerunfilecheck Info: File `ArchRequs.out' has not changed.
 (rerunfilecheck)             Checksum: A000B4A50E871C9EECEACD8BB0695A08;3120.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 160.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 161.
  ) 
 Here is how much of TeX's memory you used:
- 6404 strings out of 493921
- 96958 string characters out of 3144879
+ 6423 strings out of 493921
+ 96350 string characters out of 3147283
  175682 words of memory out of 3000000
  9531 multiletter control sequences out of 15000+200000
  10593 words of font info for 37 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  29i,7n,32p,590b,517s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on ArchRequs.pdf (25 pages, 395931 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmtt12.pfb>
+Output written on ArchRequs.pdf (27 pages, 401559 bytes).
 PDF statistics:
- 432 PDF objects out of 1000 (max. 8388607)
- 111 named destinations out of 1000 (max. 500000)
+ 457 PDF objects out of 1000 (max. 8388607)
+ 127 named destinations out of 1000 (max. 500000)
  368 words of extra memory for PDF output out of 10000 (max. 10000000)
 
