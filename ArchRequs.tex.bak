@@ -4,6 +4,7 @@
 \usepackage{listings}
 %\setcounter{tocdepth}{1}
 \usepackage{float}
+\usepackage[T1]{fontenc}
 
 
 
@@ -23,13 +24,11 @@
 %-----------------BASIC INTRODUCTION-----------------
 \section{Introduction}
 
-This document was compiled by our group during our meetings and was produced as a whole by the team.\\\\
+This document was compiled by our group during our meetings and was produced as a whole by the team. \bigskip
 
-This document contains specifications of the software architecture 
-\\requirements. This is the infrastructure upon which the application
-\\ functionality will be developed. The following non-functional
-\\ requirements are addressed in depth with supporting diagrams
-\\(when necessary):
+This document contains specifications of the software architecture requirements. This is the infrastructure upon which the application functionality will be developed. \bigskip
+
+The following non-functional requirements are addressed in depth with supporting diagrams(when necessary):
 
 \begin{itemize}
 	\item Quality requirements.
@@ -46,33 +45,36 @@ This document contains specifications of the software architecture
 \newpage
 
 \section{Architecture Requirements}
-\subsection{Architectural Scope}
+\subsection{Architectural Scope} %Maria
+\input{Arch_Scope}
 \newpage
 \subsection{Critical Quality Requirements}
 \subsubsection{Scalability}%Ruth
 	\input{Scalability}
 \newpage
 \subsubsection{Security}%Kabelo
-<<<<<<< HEAD
-	Description: \\\\
-	Justification: \\\\
-	Mechanism:
-	\begin{enumerate}
-		\item Strategy: 
-		\item Architectural Pattern:
-	\end{enumerate}
-\newpage
-=======
 	\input{Security}
->>>>>>> origin/master
 \subsubsection{Usability}%Lindelo
-	Description: \\\\
-	Justification: \\\\
-	Mechanism:
+	\subsubsection*{Description}
+	Buzz should be easy to use and the user should be able to remember how Buzz works; despite their long absence. The interface should appear easy to use; the visuals should not frustrate the user.
+	\subsubsection*{Justification}
+	Usability is critical because Buzz is user-oriented and requires that users don't get frustrated with the interface. 
+	\subsubsection*{Mechanism}
 	\begin{enumerate}
-		\item Strategy: 
-		\item Architectural Pattern:
-	\end{enumerate}'
+		\item Strategy:
+		\begin{itemize}
+			\item Descriptive headings that will not be ambiguous to the user.
+			\item Clear and descriptive "help" messages that will initiate the user into Buzz. 
+			\item Descriptive error messages that will tell the user an error has occurred and the necessary steps to address the errors.
+			\item Grouped content; this will make the interface look easier to use. If a user is looking for content, they should find related content in the same place. Navigation becomes easier.
+			\item A user should be given feedback on their actions. If a page is still loading, for example, the user should be aware that the page is loading.
+		\end{itemize} 
+		\item Architectural Pattern(s):
+		\begin{itemize}
+		\item Model-View-Controller: The user will only be presented with the view, which means they won't directly interact with other components of the system. This simplifies the user's interaction with Buzz.
+		\item Layering is similar to Model-View-Controller; the user only interacts with one layer and that layer passes the requests to a lower layer such that the user is oblivious of the complexity of low-level layers.
+		\end{itemize} 
+	\end{enumerate}
 \newpage
 \subsubsection{Integrability}%Sylvester
 	\input{Integrability_Quality_Requirement}
@@ -86,58 +88,66 @@ This document contains specifications of the software architecture
 	\input{./plug-ability.tex}
 \newpage
 \subsubsection{Monitor-ability}%Maria
-	Description: \\\\
-	Justification: \\\\
-	Mechanism:
-	\begin{enumerate}
-		\item Strategy: 
-		\item Architectural Pattern:
-	\end{enumerate}
+\input{Monitor-abiliy_Auditorabiliy}
 \newpage
 \subsection{Nice to have quality requirements}
 \subsubsection{Reliability and Availability}%Axel
-	Description: \\\\
-	Justification: \\\\
-	Mechanism:
-	\begin{enumerate}
-		\item Strategy: 
-		\item Architectural Pattern:
-	\end{enumerate}
+\input{Relaiability}
+	\newpage
 \subsubsection{Testability}%Maphuti
-	Description: \\\\
-	Justification: \\\\
-	Mechanism:
-	\begin{enumerate}
-		\item Strategy: 
-		\item Architectural Pattern:
-	\end{enumerate}
+\input{testability}
 \newpage
 \subsection{Architectural Constraints}
 	\begin{itemize}
 		%\item\textbf{Neo4j}, the preferable database technology, is schema-less, which means a schema change will not affect how the data is stored. It includes other features that would improve Buzz, but JQPL has to be used. \\ 
-		\item\textbf{JPQL} was chosen by the client, although Neo4j would have been better. \\ 
-		\item\textbf{Java EE} is the platform that will be used to implement Buzz, the system is constrained to this platform. \\ 
-		\item\textbf{JSF}, was chosen by the client and forms part of Java EE. \\ 
-		\item\textbf{AJAX} the client requested that this technology be used.  \\ 
-		\item\textbf{HTML} is the only markup language that can be used as specified by the client.\\
-		\item\textbf{The operating system} that will run the Buzz server is Linux, as requested by the client.
+		\item\textbf{JPQL} was chosen by the client, although Neo4j would have been better. 
+		\item\textbf{Java EE} is the platform that will be used to implement Buzz, the system is constrained to this platform.
+		\item\textbf{JSF}, was chosen by the client and forms part of Java EE. 
+		\item\textbf{AJAX} the client requested that this technology be used. 
+%<<<<<<< HEAD
+		\item\textbf{HTML} is the only markup language that can be used as specified by the client.
+		%\item\textbf{The operating system} that will run the Buzz server is Linux, as requested by the client.
+%=======
+		\item\textbf{The operating system} that will run the Buzz server is Linux, as requested by the client. We recommend Debian as the Linux distribution to use because:  
+		\begin{itemize}
+			\item Very complete.
+			\item Supportive and active community 
+			\item Multi-arch/kernel support
+			\item Very stable and allows you your freedom
+		\end{itemize}
+%>>>>>>> origin/master
 		\end{itemize}
 \newpage
 \section{Architectural Patterns or Styles}%Axel
+\input{Patterns_and_Styles}
 \newpage
 \section{Architectural Tactics or Strategies}%Kabelo
+	\input{Tactics_or_Strategies}
 \newpage
 \section{Use of Reference Architectures and Frameworks}%Thinus
+A reference architecture provides a template solution for an architecture for a particular domain. We will use as our reference architecture the Java Platform, Enterprise Edition (Java EE) and Model View Controller framework for the Buzz Space system. 
+Java EE includes an API and runtime environment for developing and running \textit{large-scale, multi-tiered, scalable, reliable, and secure network applications}.
+
+Java EE will be used to implement a tiered architectural structure, each tier or layer containing one ore more of the Buzz Space modules in conjunction with Java EE modules. 
+
+A multi-tiered application is thus an application where \textit{the functionality of the application is separated into isolated functional areas, called tiers}. An example of this can be seen in figure~\ref{fig:refarchandmvc} on page~\pageref{fig:refarchandmvc}.
+\begin{figure}[H]
+	\centering
+	\fbox{\includegraphics[width=0.85\textwidth]{ReferenceArchitecture}}
+	\caption{A basic overview of the buzz space tiered/layered application.}
+	\label{fig:refarchandmvc}
+\end{figure}
 \newpage
 \section{Access and Integration Channels}
 \subsection{Access Channels}
 \subsubsection{Human Access Channels}%Maria
+\input{./Human-Access-Channels.tex}
 \subsubsection{System Access Channels}%Roger
 	\input{./System-Access-Channels.tex}
 \subsection{Integration Channels}%Sylvester
 	\input{./Integration_Requirements_1.tex}
 \newpage
 \section{Technologies}%Lindelo and Ruth
-
+\input{Technologies}
 
 \end{document}

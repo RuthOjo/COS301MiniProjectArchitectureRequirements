@@ -7,7 +7,7 @@
 			\item Strategy:\\\\
 			Scalability can be achieved by:
 			\begin{itemize}
-			\item Clustering: using more resources by running many instances of the application over a cluster of servers or instances.
+			\item Clustering: using more resources by running many instances of the application over a cluster of servers or instances, to ensure system resources are not strained by a high workload.
 			
 			\item Efficient use of storage: data storage can be efficiently used through compression of the data (reducing data size to make room for more) paging (ensuring that primary storage is used only for more crucial data) as well as de-fragmentation (organizing the data into continuous fragments and free more storage space).
 			by ensuring that no data duplications occur, storage space can be conserved, thus the load on system resources will be reduced.
@@ -21,14 +21,14 @@
 			\begin{itemize}
 			\item Blackboard Architectural Pattern
 				\begin{itemize}
-					\item This pattern functions by providing a framework for a systems that need to integrate varying, large specialized modules. It entails the use of three components, namely a knowledge source, a control as well as a blackboard in order to facilitate the distributed solving of problems in a system wherein there is no defined process to solve these problems. This pattern is in itself scalable, through its distributed architecture, and as such scalability can be easily achieved across a grid of processors.				
+					\item This pattern functions by providing a framework for a systems that need to integrate varying, large specialized modules. It entails the use of three components, namely a knowledge source, a control as well as a blackboard in order to facilitate the distributed solving of problems in a system wherein there is no defined process to solve these problems. This pattern is in itself scalable, through its distributed architecture, and as such scalability can be easily achieved across a grid of processors. In the BuzzSystem, integrability is crucial; thus this pattern would aid that quality attribute well.				
 			\end{itemize}
 			 \end{itemize}
 			 
 			 \begin{itemize}
 			\item Master-Slave Architecture Pattern
 				\begin{itemize}
-					\item This pattern functions by splitting independent tasks over a number of independent processing grid slaves; wherein the slaves do the main work and the master manages the entire process. This allows for parallel processing, wherein each slave simultaneously performs a system operation and the results of each operation are later merged.
+					\item This pattern functions by splitting independent tasks over a number of independent processing grid slaves; wherein the slaves do the main work and the master manages the entire process. This allows for parallel processing, wherein each slave simultaneously performs a system operation and the results of each operation are later merged. So, in the BuzzSystem, because decoupling is enforced in this pattern, if a system component should fail, the other components will still be bale to function.
 				 \end{itemize}
 			 \end{itemize} 
 		\end{enumerate}

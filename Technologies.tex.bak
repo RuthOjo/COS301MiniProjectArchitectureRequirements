@@ -54,35 +54,12 @@
 \subsection{Web Services}
 \begin{itemize}
 	\item SOAP-based
-\end{itemize} \\
+\end{itemize} 
 
-\subsection{Others}
-\begin{itemize}
-	\item AJAX
-\end{itemize}
 
-\begin{itemize}
-	\item Servlets
-\end{itemize}
-
-\begin{itemize}
-	\item Java Server Pages
-\end{itemize}
-
+\subsection{APIs}
 \begin{itemize}
 	\item Java Persistence API
-\end{itemize}
-
-\begin{itemize}
-	\item JavaServer Faces
-\end{itemize}
-
-\begin{itemize}
-	\item JavaServer Faces Facelets
-\end{itemize}
-
-\begin{itemize}
-	\item Enterprise JavaBeans (enterprise bean) components
 \end{itemize}
 
 \begin{itemize}
@@ -98,14 +75,6 @@
 \end{itemize}
 
 \begin{itemize}
-	\item Java Persistence API entities
-\end{itemize}
-
-\begin{itemize}
-	\item Java EE managed beans
-\end{itemize}
-
-\begin{itemize}
 	\item The Java Database Connectivity API (JDBC)
 \end{itemize}
 
@@ -114,21 +83,43 @@
 \end{itemize}
 
 \begin{itemize}
-	\item AJAX
+	\item The Java EE Connector Architecture
 \end{itemize}
 
+\begin{itemize}
+	\item The Java Transaction API (JTA)
+\end{itemize}
+
+
+\subsection{Others}
 \begin{itemize}
 	\item AJAX
 \end{itemize}
 
-The Java Database Connectivity API (JDBC)
-A low-level API for accessing and retrieving data from underlying data stores. A common use of JDBC is to make SQL queries on a particular database.
-The Java Persistence API
-An API for accessing data in underlying data stores and mapping that data to Java programming language objects. The Java Persistence API is a much higher-level API than JDBC, and hides the complexity of JDBC from the user.
-The Java EE Connector Architecture
-An API for connecting to other enterprise resources, like enterprise resource planning or customer management system software.
-The Java Transaction API (JTA)
-An API for defining and managing transactions, including distributed transactions or transactions that cross multiple underlying data sources.
+\begin{itemize}
+	\item Servlets
+\end{itemize}
+
+\begin{itemize}
+	\item Java Server Pages
+\end{itemize}
+
+
+\begin{itemize}
+	\item JavaServer Faces
+\end{itemize}
+
+\begin{itemize}
+	\item JavaServer Faces Facelets
+\end{itemize}
+
+\begin{itemize}
+	\item Enterprise JavaBeans (enterprise bean) components
+\end{itemize}
+
+\begin{itemize}
+	\item Java EE managed beans
+\end{itemize}
 
 
 \section{Recommended Technologies}
