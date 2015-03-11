@@ -18,31 +18,31 @@
 \contentsline {subsubsection}{\numberline {3.0.1}Object-Oriented}{18}{subsubsection.3.0.1}
 \contentsline {subsubsection}{\numberline {3.0.2}Client/Server}{18}{subsubsection.3.0.2}
 \contentsline {subsubsection}{\numberline {3.0.3}Component-Based Architecture}{19}{subsubsection.3.0.3}
-\contentsline {subsubsection}{\numberline {3.0.4}Layered Architecture}{20}{subsubsection.3.0.4}
+\contentsline {subsubsection}{\numberline {3.0.4}Layered Architecture}{19}{subsubsection.3.0.4}
 \contentsline {section}{\numberline {4}Architectural Tactics or Strategies}{21}{section.4}
 \contentsline {section}{\numberline {5}Use of Reference Architectures and Frameworks}{24}{section.5}
-\contentsline {section}{\numberline {6}Access and Integration Channels}{26}{section.6}
-\contentsline {subsection}{\numberline {6.1}Access Channels}{26}{subsection.6.1}
-\contentsline {subsubsection}{\numberline {6.1.1}Human Access Channels}{26}{subsubsection.6.1.1}
-\contentsline {subsubsection}{\numberline {6.1.2}System Access Channels}{26}{subsubsection.6.1.2}
-\contentsline {subsection}{\numberline {6.2}Integration Channels}{27}{subsection.6.2}
-\contentsline {section}{\numberline {7}Technologies}{29}{section.7}
-\contentsline {subsection}{\numberline {7.1}Platform}{29}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}Frameworks}{29}{subsection.7.2}
-\contentsline {subsection}{\numberline {7.3}Operating System}{29}{subsection.7.3}
-\contentsline {subsection}{\numberline {7.4}Databases}{29}{subsection.7.4}
-\contentsline {subsubsection}{\numberline {7.4.1}Relational Databases}{29}{subsubsection.7.4.1}
-\contentsline {subsection}{\numberline {7.5}Object Relational Mappers}{29}{subsection.7.5}
-\contentsline {subsection}{\numberline {7.6}Languages}{29}{subsection.7.6}
-\contentsline {subsubsection}{\numberline {7.6.1}Programming Languages}{29}{subsubsection.7.6.1}
-\contentsline {subsubsection}{\numberline {7.6.2}Mark-up Languages}{29}{subsubsection.7.6.2}
-\contentsline {subsection}{\numberline {7.7}Application Servers}{29}{subsection.7.7}
-\contentsline {subsection}{\numberline {7.8}Dependency Management}{30}{subsection.7.8}
-\contentsline {subsection}{\numberline {7.9}Web Services}{30}{subsection.7.9}
-\contentsline {subsection}{\numberline {7.10}APIs}{30}{subsection.7.10}
-\contentsline {subsection}{\numberline {7.11}Others}{30}{subsection.7.11}
-\contentsline {section}{\numberline {8}Recommended Technologies}{31}{section.8}
-\contentsline {subsection}{\numberline {8.1}Databases}{31}{subsection.8.1}
-\contentsline {subsubsection}{\numberline {8.1.1}Object Relational Databases}{31}{subsubsection.8.1.1}
-\contentsline {subsubsection}{\numberline {8.1.2}NoSQL Databases}{31}{subsubsection.8.1.2}
-\contentsline {subsection}{\numberline {8.2}Object Data Mappers}{31}{subsection.8.2}
+\contentsline {section}{\numberline {6}Access and Integration Channels}{25}{section.6}
+\contentsline {subsection}{\numberline {6.1}Access Channels}{25}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}Human Access Channels}{25}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6.1.2}System Access Channels}{25}{subsubsection.6.1.2}
+\contentsline {subsection}{\numberline {6.2}Integration Channels}{26}{subsection.6.2}
+\contentsline {section}{\numberline {7}Technologies}{28}{section.7}
+\contentsline {subsection}{\numberline {7.1}Platform}{28}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Frameworks}{28}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Operating System}{28}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Databases}{28}{subsection.7.4}
+\contentsline {subsubsection}{\numberline {7.4.1}Relational Databases}{28}{subsubsection.7.4.1}
+\contentsline {subsection}{\numberline {7.5}Object Relational Mappers}{28}{subsection.7.5}
+\contentsline {subsection}{\numberline {7.6}Languages}{28}{subsection.7.6}
+\contentsline {subsubsection}{\numberline {7.6.1}Programming Languages}{28}{subsubsection.7.6.1}
+\contentsline {subsubsection}{\numberline {7.6.2}Mark-up Languages}{28}{subsubsection.7.6.2}
+\contentsline {subsection}{\numberline {7.7}Application Servers}{28}{subsection.7.7}
+\contentsline {subsection}{\numberline {7.8}Dependency Management}{29}{subsection.7.8}
+\contentsline {subsection}{\numberline {7.9}Web Services}{29}{subsection.7.9}
+\contentsline {subsection}{\numberline {7.10}APIs}{29}{subsection.7.10}
+\contentsline {subsection}{\numberline {7.11}Others}{29}{subsection.7.11}
+\contentsline {section}{\numberline {8}Recommended Technologies}{30}{section.8}
+\contentsline {subsection}{\numberline {8.1}Databases}{30}{subsection.8.1}
+\contentsline {subsubsection}{\numberline {8.1.1}Object Relational Databases}{30}{subsubsection.8.1.1}
+\contentsline {subsubsection}{\numberline {8.1.2}NoSQL Databases}{30}{subsubsection.8.1.2}
+\contentsline {subsection}{\numberline {8.2}Object Data Mappers}{30}{subsection.8.2}
