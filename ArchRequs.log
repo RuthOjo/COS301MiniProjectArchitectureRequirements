@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.18)  11 MAR 2015 17:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.18)  11 MAR 2015 18:30
 entering extended mode
 **ArchRequs.tex
 
@@ -306,17 +306,18 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.36 ...erline {7.4}Databases}{30}{subsection.7.4}
+l.36 ...erline {7.4}Databases}{31}{subsection.7.4}
                                                    [1])
 \tf@toc=\write4
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 34.
+ [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 35.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
- [2] [3]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
+ [3]
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Arch_
 Scope.tex [4]) [5]
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Scala
@@ -342,16 +343,17 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 42--43
  [][] 
  []
 
-) [8pdfTeX warning (ext4): destination with the same identifier (name{figure.1}
-) has been already used, duplicate ignored
+)
+(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Secur
+ity.tex [8pdfTeX warning (ext4): destination with the same identifier (name{fig
+ure.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.54 \newpage
-              <C:/Users/Ruth/Documents/GitHub/COS301MiniProjectArchitectureRequ
-irements/Scalability.png>]
-(C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Secur
-ity.tex
+l.4 		\item E
+             nsuring only genuine users may have access to the system's data. <
+C:/Users/Ruth/Documents/GitHub/COS301MiniProjectArchitectureRequirements/Scalab
+ility.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 12--14
 
  []
@@ -366,23 +368,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
-[9]) [10] [11]
+[9]) [10]
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Integ
-rability_Quality_Requirement.tex) [12]
+rability_Quality_Requirement.tex) [11]
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Perfo
-rmance.tex [13]) [14]
+rmance.tex [12]) [13]
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\plug-
-ability.tex) [15]
+ability.tex) [14]
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Monit
-or-abiliy_Auditorabiliy.tex [16]) [17]
+or-abiliy_Auditorabiliy.tex [15]) [16]
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Relai
-ability.tex [18]
+ability.tex [17]
 Overfull \hbox (0.7797pt too wide) in paragraph at lines 45--46
 []\T1/cmr/m/n/12 by im-ple-ment-ing a hi-er-ar-chi-cal ar-chi-tec-ture, sep-a-r
 a-tion of con-
  []
 
-) [19]
+) [18]
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\testa
 bility.tex
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
@@ -404,62 +406,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
-) [20] [21]
+) [19] [20]
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Patte
 rns_and_Styles.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1.
 
-[22] [23]) [24]
+[21] [22]) [23]
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Tacti
-cs_or_Strategies.tex [25]
+cs_or_Strategies.tex [24]
 Overfull \hbox (2.1712pt too wide) in paragraph at lines 51--52
 []\T1/cmr/m/n/12 Checkpoint/rollback: the states of the com-po-nents will be re
 corded
  []
 
-[26]) [27] <ReferenceArchitecture.png, id=465, 379.4175pt x 362.35374pt>
+[25]) [26] <ReferenceArchitecture.png, id=461, 379.4175pt x 362.35374pt>
 File: ReferenceArchitecture.png Graphic file (type png)
 
 <use ReferenceArchitecture.png>
-Package pdftex.def Info: ReferenceArchitecture.png used on input line 136.
+Package pdftex.def Info: ReferenceArchitecture.png used on input line 137.
 (pdftex.def)             Requested size: 331.50238pt x 316.59984pt.
- [28pdfTeX warning (ext4): destination with the same identifier (name{figure.2}
+ [27pdfTeX warning (ext4): destination with the same identifier (name{figure.2}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.140 \newpage
+l.141 \newpage
                <C:/Users/Ruth/Documents/GitHub/COS301MiniProjectArchitectureReq
 uirements/ReferenceArchitecture.png>]
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Human
 -Access-Channels.tex)
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Syste
-m-Access-Channels.tex [29])
+m-Access-Channels.tex [28])
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Integ
-ration_Requirements_1.tex [30]) [31]
+ration_Requirements_1.tex [29]) [30]
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\Techn
-ologies.tex [32] [33])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 153.
- [34]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 153.
+ologies.tex [31] [32])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 154.
+ [33]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 154.
 
 (C:\Users\Ruth\Documents\GitHub\COS301MiniProjectArchitectureRequirements\ArchR
 equs.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 153.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 153.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 154.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 154.
 Package rerunfilecheck Info: File `ArchRequs.out' has not changed.
 (rerunfilecheck)             Checksum: 2F5AE432D31B55FDBF92CFFB00469177;3670.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 153.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 154.
  ) 
 Here is how much of TeX's memory you used:
- 6707 strings out of 493921
- 101335 string characters out of 3144879
+ 6706 strings out of 493921
+ 101328 string characters out of 3144879
  176026 words of memory out of 3000000
  9739 multiletter control sequences out of 15000+200000
  16067 words of font info for 40 fonts, out of 3000000 for 9000
@@ -478,9 +476,9 @@ Users\Ruth\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm2074
 .pk> <C:\Users\Ruth\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 \ecbx2074.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmsy10.pfb>
-Output written on ArchRequs.pdf (35 pages, 496376 bytes).
+Output written on ArchRequs.pdf (34 pages, 494053 bytes).
 PDF statistics:
- 951 PDF objects out of 1000 (max. 8388607)
- 169 named destinations out of 1000 (max. 500000)
+ 943 PDF objects out of 1000 (max. 8388607)
+ 168 named destinations out of 1000 (max. 500000)
  424 words of extra memory for PDF output out of 10000 (max. 10000000)
 

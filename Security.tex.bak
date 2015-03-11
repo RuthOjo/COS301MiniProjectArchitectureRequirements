@@ -1,7 +1,7 @@
 \subsubsection*{Description}
 	Security includes the securing of confidential data stored from unauthorized access and modification. For BuzzSpace, this means:
 	\begin{itemize}
-		\item Ensuring only genuine users may have access to the system’s data. 
+		\item Ensuring only genuine users may have access to the system's data. 
 		\item Different levels of access should be provided to users.
 		\item Securing vulnerabilities that may exist in the application.
 	\end{itemize}	
