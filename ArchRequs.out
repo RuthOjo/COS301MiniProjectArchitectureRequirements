@@ -1,9 +1,9 @@
 \BOOKMARK [1][-]{section.1}{Introduction}{}% 1
 \BOOKMARK [1][-]{section.2}{Architecture Requirements}{}% 2
 \BOOKMARK [2][-]{subsection.2.1}{Architectural Scope}{section.2}% 3
-\BOOKMARK [3][-]{subsubsection.2.1.1}{Persistence:}{subsection.2.1}% 4
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Persistence}{subsection.2.1}% 4
 \BOOKMARK [3][-]{subsubsection.2.1.2}{Reporting}{subsection.2.1}% 5
-\BOOKMARK [3][-]{subsubsection.2.1.3}{Layered Architecture}{subsection.2.1}% 6
+\BOOKMARK [3][-]{subsubsection.2.1.3}{Process execution}{subsection.2.1}% 6
 \BOOKMARK [2][-]{subsection.2.2}{Critical Quality Requirements}{section.2}% 7
 \BOOKMARK [3][-]{subsubsection.2.2.1}{Scalability}{subsection.2.2}% 8
 \BOOKMARK [3][-]{subsubsection.2.2.2}{Security}{subsection.2.2}% 9
