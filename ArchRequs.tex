@@ -69,6 +69,10 @@ The following non-functional requirements are addressed in depth with supporting
 			\item A user should be given feedback on their actions. If a page is still loading, for example, the user should be aware that the page is loading.
 		\end{itemize} 
 		\item Architectural Pattern(s):
+		\begin{itemize}
+		\item Model-View-Controller: The user will only be presented with the view, which means they won't directly interact with other components of the system. This simplifies the user's interaction with Buzz.
+		\item Layering is similar to Model-View-Controller; the user only interacts with one layer and that layer passes the requests to a lower layer such that the user is oblivious of the complexity of low-level layers.
+		\end{itemize} 
 	\end{enumerate}
 \newpage
 \subsubsection{Integrability}%Sylvester
